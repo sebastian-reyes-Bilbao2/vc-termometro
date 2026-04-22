@@ -1,0 +1,6 @@
+raw/
+scripts/logs/
+scripts/node_modules/
+scripts/.env
+findings.json
+*.lock

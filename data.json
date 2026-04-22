@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "updated_at": "2026-04-21T16:11:00-05:00",
+    "last_run_label": "Corrida de la tarde - 21 de abril 2026",
+    "artifact_id": "vc-termometro"
+  },
+  "thermometer": {
+    "level": 7.1,
+    "label": "Verde confirmado: banca institucional y mega-seeds AI consolidan la tendencia",
+    "description": "AMI $1B seed (Paris), bancos con CAGR 21% en AI VC, Nasdaq apuntando a ATH y SoftBank/DigitalBridge $4B. La tarde valida el verde de la mañana.",
+    "trend": "flat",
+    "trend_delta": 0.1,
+    "color_band": "green"
+  },
+  "volume": {
+    "rounds_us_last_7d": 158,
+    "rounds_latam_last_7d": 25,
+    "capital_us_last_7d_musd": 8820,
+    "capital_latam_last_7d_musd": 628,
+    "delta_rounds_vs_prev": "+1%",
+    "delta_capital_vs_prev": "+13%",
+    "leading_sectors_us": [
+      "AI infrastructure",
+      "Biotech / GLP-1 & cell therapy",
+      "Defense & dual-use",
+      "Vertical AI agents / HR & healthtech"
+    ],
+    "leading_sectors_latam": [
+      "Fintech B2B / neobanking",
+      "Stablecoins & cripto-infraestructura",
+      "Content / media AI",
+      "AI aplicada / healthtech"
+    ],
+    "stage_mix": {
+      "seed": 33,
+      "series_a": 26,
+      "series_b": 17,
+      "growth": 24
+    }
+  },
+  "narrative": {
+    "dominant_themes": [
+      "AMI $1B seed (Paris) confirma que la carrera de AI foundation ya es global, no sólo Silicon Valley",
+      "Banca institucional (WF, Citi, Goldman) crece CAGR 21% en AI venture desde 2023 — institucionalización real",
+      "IPO pipeline cargado: Cerebras ($510M revenue +76%), Revolut ($150-200B target), SpaceX (Musk consolida)",
+      "SoftBank adquiere DigitalBridge por $4B — consolidación de infra AI sigue a ritmo sostenido",
+      "LATAM mira al norte: 280 startups hispanas en Miami Startup Olé, crecimiento 50% en asistentes",
+      "Stablecoins en Brasil escalan más allá del nicho crypto hacia pagos corporativos y FX"
+    ],
+    "one_liner": "La tarde del 21 confirma lo que la mañana prometió: el verde no era un flash, es tendencia."
+  },
+  "blog_posts": [
+    {
+      "id": "2026-04-21-afternoon",
+      "date": "2026-04-21",
+      "time": "16:11",
+      "run": "afternoon",
+      "title": "Tarde consolida el verde: AMI levanta $1B seed, bancos crecen 21% CAGR en AI y Nasdaq apunta a máximos históricos",
+      "subtitle": "Corrida de la tarde (21 abr 2026) — Mientras los mega-deals de la mañana se digieren, capital institucional y datos de mercado confirman que el giro alcista no es casualidad.",
+      "sentiment_at_post": 7.1,
+      "sources_used": [
+        "Crunchbase News",
+        "American Banker",
+        "Parsers VC",
+        "The AI Insider",
+        "PYMNTS",
+        "Investing.com",
+        "Motley Fool",
+        "TipRanks / Wells Fargo",
+        "FE International",
+        "Morningstar",
+        "Sherwood News",
+        "Forge",
+        "Citi Wealth",
+        "CREFC",
+        "Valor International",
+        "Ecosistema Startup",
+        "Open Hub News",
+        "TechCrunch"
+      ],
+      "word_count": 2150,
+      "citations": [
+        {
+          "n": 1,
+          "outlet": "Crunchbase News",
+          "title": "The New Unicorn Count Reached A 4-Year High In March, Led By Robotics & AI",
+          "url": "https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 2,
+          "outlet": "American Banker",
+          "title": "Wells Fargo, Citi and Goldman lead in AI venture investment",
+          "url": "https://www.americanbanker.com/news/wells-fargo-citi-and-goldman-lead-in-ai-venture-investment",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 3,
+          "outlet": "Parsers VC (Substack)",
+          "title": "Weekly Funding rounds / Statistics / Insights of April 21, 2026",
+          "url": "https://parsers.substack.com/p/weekly-funding-rounds-statistics-694",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 4,
+          "outlet": "The AI Insider",
+          "title": "Worki Announces $2.75M to Build the AI Workforce Unifying Infrastructure Layer for Healthcare",
+          "url": "https://theaiinsider.tech/2026/04/21/worki-announces-2-75m-to-build-the-ai-workforce-unifying-infrastructure-layer-for-healthcare-workforce-operations/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 5,
+          "outlet": "PYMNTS",
+          "title": "Enterprise AI Goes Vertical and Investors Follow Fast",
+          "url": "https://www.pymnts.com/news/investment-tracker/2026/enterprise-ai-goes-vertical-and-investors-follow-fast/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 6,
+          "outlet": "Investing.com",
+          "title": "Factbox-From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms",
+          "url": "https://www.investing.com/news/stock-market-news/factboxfrom-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms-4626232",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 7,
+          "outlet": "Motley Fool",
+          "title": "Prediction: The Nasdaq Will Hit New All-Time Highs This Year",
+          "url": "https://www.fool.com/investing/2026/04/20/prediction-the-nasdaq-will-hit-new-all-time-highs/",
+          "date": "2026-04-20"
+        },
+        {
+          "n": 8,
+          "outlet": "TipRanks / Wells Fargo Research",
+          "title": "Wells Fargo Says Tech Still Looks Compelling",
+          "url": "https://www.tipranks.com/news/article/wells-fargo-says-tech-still-looks-compelling-and-suggests-2-stocks-to-buy",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 9,
+          "outlet": "FE International",
+          "title": "AI M&A Trends 2026: Why Acquirers Pay Premium Multiples",
+          "url": "https://www.feinternational.com/blog/ai-ma-trend",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 10,
+          "outlet": "Sherwood News",
+          "title": "Report: Tesla's Elon Musk bought $1.4 billion shares of SpaceX",
+          "url": "https://sherwood.news/power/report-teslas-elon-musk-bought-usd1-4-billion-shares-of-spacex/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 11,
+          "outlet": "Forge",
+          "title": "Insights: Companies with highest investor demand in 2026",
+          "url": "https://forgeglobal.com/insights/companies-highest-investor-demand-2026/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 12,
+          "outlet": "Citi Wealth",
+          "title": "Market Commentary - The Short and Long: Q2 2026",
+          "url": "https://www.privatebank.citibank.com/ivc/docs/quadrant/WIS_ShortAndLong_Q22026.pdf",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 13,
+          "outlet": "CREFC",
+          "title": "1Q 2026 BOG Sentiment Index Falls 20% to Baseline as Geopolitical Shock Reverses Three Quarters of Gains",
+          "url": "https://www.crefc.org/crefc/advocacy/bogs/bog_sentiment_index.aspx",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 14,
+          "outlet": "Morningstar",
+          "title": "Ahead of Cerebras' IPO, How Durable Are the AI Chipmaker's Profits?",
+          "url": "https://www.morningstar.com/stocks/ahead-cerebras-ipo-how-durable-are-ai-chipmakers-profits",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 15,
+          "outlet": "TechCrunch",
+          "title": "Revolut eyes valuation of up to $200B in eventual IPO",
+          "url": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 16,
+          "outlet": "Valor International",
+          "title": "Stablecoins advance beyond crypto niche",
+          "url": "https://valorinternational.globo.com/business/news/2026/04/20/stablecoins-advance-beyond-crypto-niche.ghtml",
+          "date": "2026-04-20"
+        },
+        {
+          "n": 17,
+          "outlet": "Open Hub News",
+          "title": "VAAS capta R$20 millones tras ronda exitosa",
+          "url": "https://openhubnews.com/brasil/noticias/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 18,
+          "outlet": "Ecosistema Startup",
+          "title": "Startup Olé Miami 2026: 280 startups buscan inversión",
+          "url": "https://ecosistemastartup.com/startup-ole-miami-2026-280-startups-buscan-inversion/",
+          "date": "2026-04-21"
+        },
+        {
+          "n": 19,
+          "outlet": "Morningstar / BusinessWire",
+          "title": "Pegasus Tech Ventures and Japanet Expand Corporate Venture Capital (CVC) Fund to US$200 Million",
+          "url": "https://www.morningstar.com/news/business-wire/20260421593576/pegasus-tech-ventures-and-japanet-expand-corporate-venture-capital-cvc-fund-to-us200-million",
+          "date": "2026-04-21"
+        }
+      ],
+      "content_html": "<div class=\"sources-block\">\n  <strong>Fuentes consultadas en esta corrida (findings.json local — hace ~3h, Firecrawl):</strong>\n  <ul class=\"sources-list\">\n    <li><a href=\"https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Crunchbase News &mdash; &ldquo;The New Unicorn Count Reached A 4-Year High In March, Led By Robotics &amp; AI&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.americanbanker.com/news/wells-fargo-citi-and-goldman-lead-in-ai-venture-investment\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">American Banker &mdash; &ldquo;Wells Fargo, Citi and Goldman lead in AI venture investment&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://parsers.substack.com/p/weekly-funding-rounds-statistics-694\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Parsers VC &mdash; &ldquo;Weekly Funding rounds / Statistics / Insights of April 21, 2026&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://theaiinsider.tech/2026/04/21/worki-announces-2-75m-to-build-the-ai-workforce-unifying-infrastructure-layer-for-healthcare-workforce-operations/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">The AI Insider &mdash; &ldquo;Worki Announces $2.75M to Build the AI Workforce Unifying Infrastructure Layer for Healthcare&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.pymnts.com/news/investment-tracker/2026/enterprise-ai-goes-vertical-and-investors-follow-fast/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">PYMNTS &mdash; &ldquo;Enterprise AI Goes Vertical and Investors Follow Fast&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.investing.com/news/stock-market-news/factboxfrom-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms-4626232\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Investing.com &mdash; &ldquo;Factbox: From OpenAI to Nvidia, firms channel billions into AI infrastructure&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.fool.com/investing/2026/04/20/prediction-the-nasdaq-will-hit-new-all-time-highs/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Motley Fool &mdash; &ldquo;Prediction: The Nasdaq Will Hit New All-Time Highs This Year&rdquo;</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.tipranks.com/news/article/wells-fargo-says-tech-still-looks-compelling-and-suggests-2-stocks-to-buy\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">TipRanks / Wells Fargo &mdash; &ldquo;Wells Fargo Says Tech Still Looks Compelling&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.feinternational.com/blog/ai-ma-trend\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">FE International &mdash; &ldquo;AI M&amp;A Trends 2026: Why Acquirers Pay Premium Multiples&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.morningstar.com/news/business-wire/20260421593576/pegasus-tech-ventures-and-japanet-expand-corporate-venture-capital-cvc-fund-to-us200-million\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Morningstar / BusinessWire &mdash; &ldquo;Pegasus Tech Ventures and Japanet Expand CVC Fund to $200M&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://sherwood.news/power/report-teslas-elon-musk-bought-usd1-4-billion-shares-of-spacex/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Sherwood News &mdash; &ldquo;Report: Tesla&rsquo;s Elon Musk bought $1.4 billion shares of SpaceX&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.morningstar.com/stocks/ahead-cerebras-ipo-how-durable-are-ai-chipmakers-profits\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Morningstar &mdash; &ldquo;Ahead of Cerebras&rsquo; IPO, How Durable Are the AI Chipmaker&rsquo;s Profits?&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">TechCrunch &mdash; &ldquo;Revolut eyes valuation of up to $200B in eventual IPO&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://valorinternational.globo.com/business/news/2026/04/20/stablecoins-advance-beyond-crypto-niche.ghtml\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Valor International &mdash; &ldquo;Stablecoins advance beyond crypto niche&rdquo;</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://ecosistemastartup.com/startup-ole-miami-2026-280-startups-buscan-inversion/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Ecosistema Startup &mdash; &ldquo;Startup Ol&eacute; Miami 2026: 280 startups buscan inversi&oacute;n&rdquo;</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://openhubnews.com/brasil/noticias/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Open Hub News &mdash; &ldquo;VAAS capta R$20 millones tras ronda exitosa&rdquo;</a> &mdash; 2026-04-21</li>\n  </ul>\n</div>\n\n<h3>Pulso macro</h3>\n<p>La tarde del 21 de abril trae claridad sobre lo que la ma&ntilde;ana apenas dejaba entrever. El Nasdaq entr&oacute; en territorio de correcci&oacute;n a finales de marzo, pero m&uacute;ltiples analistas predicen ahora que alcanzar&aacute; m&aacute;ximos hist&oacute;ricos este a&ntilde;o impulsado por el renovado entusiasmo en torno a la inteligencia artificial<sup class=\"cite\" data-n=\"7\">7</sup>. Wells Fargo public&oacute; esta tarde una nota destacando que las valuaciones del sector tech cayeron de forma significativa y ya est&aacute;n en l&iacute;nea con el S&amp;P 500 en t&eacute;rminos de P/E forward<sup class=\"cite\" data-n=\"8\">8</sup>: la sobrevaluaci&oacute;n de 2021-2024 fue digerida. Forge confirm&oacute; que SpaceX y Anthropic lideran la demanda inversora en el mercado privado en 2026<sup class=\"cite\" data-n=\"11\">11</sup>.</p>\n\n<p>El tel&oacute;n de fondo macro sigue partido. El &iacute;ndice de sentimiento BOG del CREFC cay&oacute; un 20% en el Q1 2026 cuando un shock geopol&iacute;tico revirti&oacute; tres trimestres de ganancias<sup class=\"cite\" data-n=\"13\">13</sup>. Citi Wealth describe el primer trimestre como un per&iacute;odo de &ldquo;m&uacute;ltiples shocks absorbidos simult&aacute;neamente&rdquo;<sup class=\"cite\" data-n=\"12\">12</sup>. Pero los propios analistas de Citi observan que las recuperaciones post-shock han sido hist&oacute;ricamente r&aacute;pidas cuando el ciclo de ganancias subyacente se mantiene intacto. La oleada de inversi&oacute;n en AI sugiere que s&iacute; lo est&aacute;. La corrida de la tarde confirma: el 7.0 de esta ma&ntilde;ana no fue ruido.</p>\n\n<h3>Estados Unidos</h3>\n<p>La se&ntilde;al m&aacute;s impactante de la tarde llega desde Crunchbase: Advanced Machine Intelligence (AMI), con sede en Par&iacute;s, levant&oacute; una ronda seed de 1.000 millones de d&oacute;lares liderada por Bezos Expeditions, Cathay Innovation, Greycroft, Hiro Capital y HV Capital<sup class=\"cite\" data-n=\"1\">1</sup>. Que una ronda seed llegue a ese n&uacute;mero es extraordinario. AMI entra directamente al club de unicornios en su primer cheque externo y se convierte en evidencia de que la carrera de AI foundation ya no es exclusiva de Silicon Valley: el capital sigue al talento, incluso si el talento est&aacute; en Europa.</p>\n\n<p>El dato de AMI tambi&eacute;n refuerza la gravitaci&oacute;n del ecosistema Bezos: entre Project Prometheus (~$10B), la participaci&oacute;n en AMI ($1B seed), y el compromiso Amazon-Anthropic de hasta $25B en las &uacute;ltimas 48 horas, Bezos Expeditions se consolida como el vector de capital m&aacute;s activo del ciclo. Ning&uacute;n solo LP o GP tiene ese alcance en paralelo en este momento.</p>\n\n<p>En el plano institucional, American Banker report&oacute; que Wells Fargo, Citi y Goldman Sachs lideran la inversi&oacute;n de venture de los grandes bancos en AI, con un CAGR del 21% desde 2023<sup class=\"cite\" data-n=\"2\">2</sup>. Esto no es capital corporativo pasivo en fondos de fondos &mdash; es cheques directos a startups. El reporte Evident AI Venture, que respalda el art&iacute;culo, documenta una sofisticaci&oacute;n creciente de los equipos de CVC bancario que compiten con fondos dedicados. La implicaci&oacute;n para el ecosistema: el pipeline institucional-a-startup se est&aacute; multiplicando sin que los fondos tradicionales sean el &uacute;nico canal.</p>\n\n<p>Tres rondas nuevas a nivel de startup confirman el flujo bajo el tier mega-deal. TraqCheck, HR tech con agentes de AI para automatizar reclutamiento, cerr&oacute; $8M en Serie A de IvyCap Ventures<sup class=\"cite\" data-n=\"3\">3</sup>. Worki levant&oacute; $2.75M pre-seed liderados por Redesign Health y Healthliant Ventures para construir una capa de infraestructura AI de workforce en salud<sup class=\"cite\" data-n=\"4\">4</sup> &mdash; exactamente el tipo de aplicaci&oacute;n vertical que PYMNTS describe como la pr&oacute;xima oleada de atracci&oacute;n inversora<sup class=\"cite\" data-n=\"5\">5</sup>. Ambos deals confirman la tesis: los VCs est&aacute;n siguiendo a los founders que eligen sectores donde el ROI de AI es medible y las estructuras regulatorias conocidas.</p>\n\n<p>En infraestructura, SoftBank anunci&oacute; la adquisici&oacute;n de DigitalBridge Group por $4.000 millones<sup class=\"cite\" data-n=\"6\">6</sup>. No es una ronda de venture, pero remodela qui&eacute;n posee los activos de data centers cr&iacute;ticos para el despliegue de AI. El &iacute;ndice Stanford AI citado por FE International pone la inversi&oacute;n corporativa total en AI en $252.300 millones en 2024<sup class=\"cite\" data-n=\"9\">9</sup>: SoftBank/DigitalBridge es la continuaci&oacute;n l&oacute;gica de esa tendencia hacia la consolidaci&oacute;n de infra.</p>\n\n<p>Finalmente, Elon Musk compr&oacute; $1.400 millones en acciones de SpaceX de empleados actuales y ex empleados, seg&uacute;n The Information, en un movimiento para consolidar el control previo al IPO<sup class=\"cite\" data-n=\"10\">10</sup>. Con Cerebras habiendo presentado su S-1 con revenue de $510 millones en 2025 (+76% YoY)<sup class=\"cite\" data-n=\"14\">14</sup> y Revolut apuntando a hasta $200.000 millones de valuaci&oacute;n en su IPO eventual<sup class=\"cite\" data-n=\"15\">15</sup>, el pipeline de salidas al mercado p&uacute;blico luce m&aacute;s cargado que en cualquier momento desde 2021.</p>\n\n<h3>Latinoam&eacute;rica</h3>\n<p>La tarde LATAM no trae un nuevo mega-deal, pero s&iacute; texturas que amplifican la lectura de la ma&ntilde;ana. El deal estrella sigue siendo Banco Plata ($405M Serie C, valuaci&oacute;n $5.000 millones en M&eacute;xico). Sin embargo, dos historias de la tarde a&ntilde;aden capas al an&aacute;lisis.</p>\n\n<p>Primero, Brasil. Valor International report&oacute; que las stablecoins est&aacute;n ganando terreno en Brasil m&aacute;s all&aacute; del nicho cripto: se usan para pagos internacionales, turismo y gesti&oacute;n del cash flow corporativo, sin activar el Imposto sobre Opera&ccedil;&otilde;es Financeiras (IOF) que encarece las operaciones de FX tradicionales<sup class=\"cite\" data-n=\"16\">16</sup>. Este es un arbitraje regulatorio que tiene implicaciones serias para startups de fintech de pagos B2B. El mercado de stablecoins para pagos corporativos en el pa&iacute;s m&aacute;s grande de LATAM representa una oportunidad estructural que todav&iacute;a no est&aacute; captada en los n&uacute;meros de rondas tradicionales.</p>\n\n<p>VAAS, startup brasile&ntilde;a de HR tech/fintech, cerr&oacute; una ronda de R$20 millones (~$4M USD) y avanza en herramientas de automatizaci&oacute;n de procesos<sup class=\"cite\" data-n=\"17\">17</sup>. El deal es peque&ntilde;o en d&oacute;lares pero confirma actividad seed fuera del circuito de unicornios de S&atilde;o Paulo.</p>\n\n<p>Segundo, el movimiento geogr&aacute;fico. Startup Ol&eacute; Miami 2026 reuni&oacute; 280 startups hispanas buscando inversi&oacute;n estadounidense, con un crecimiento del 50% en asistentes vs 2025<sup class=\"cite\" data-n=\"18\">18</sup>. El dato es cultural antes que financiero: los founders latinoamericanos ya no esperan que el capital viaje al sur &mdash; ellos van al norte. Ese desplazamiento de mentalidad tiene efectos concretos: m&aacute;s startups LATAM registradas en Delaware, m&aacute;s term sheets en d&oacute;lares, m&aacute;s VCs norteamericanos c&oacute;modos escribiendo cheques a equipos hispanos. Shorta ($6M pre-seed, Argentina) es el prototipo exacto de ese nuevo arquetipo.</p>\n\n<p>eMarketer proyect&oacute; que el retail ecommerce en Brasil crecer&aacute; $22.540 millones en los pr&oacute;ximos dos a&ntilde;os, con Mercado Libre y Amazon compitiendo por la cima. Ese crecimiento alimenta el ecosistema de startups B2B de log&iacute;stica, pagos y fulfillment que rodea a ambos jugadores.</p>\n\n<h3>Deep dive del d&iacute;a: La banca grande ya no solo usa AI &mdash; la financia</h3>\n<p>Wells Fargo, Citi y Goldman Sachs no son conocidos como fondos de venture activos. Pero el reporte de Evident AI Venture al que hace referencia American Banker reescribe ese relato: las inversiones directas de venture de los grandes bancos en compa&ntilde;&iacute;as de AI crecieron a un CAGR del 21% desde 2023<sup class=\"cite\" data-n=\"2\">2</sup>. Eso supera la tasa de crecimiento del mercado de VC general en el mismo per&iacute;odo.</p>\n\n<p>La implicaci&oacute;n es m&aacute;s profunda que el n&uacute;mero. Los grandes bancos tienen procesos de aprobaci&oacute;n lentos, mandatos conservadores y apetito por el riesgo hist&oacute;ricamente bajo en mercado privado. El hecho de que est&eacute;n desplegando capital directo en startups de AI indica que la clase de activo fue &ldquo;institucionalizada&rdquo; en el sentido m&aacute;s exigente del t&eacute;rmino. Cuando el CVC de un banco sistémico escribe un cheque directo a una startup de infraestructura AI, eso es una se&ntilde;al de madurez de mercado que ning&uacute;n fondo dedicado puede emitir solo.</p>\n\n<p>Combinado con la expansi&oacute;n del CVC de Pegasus Tech Ventures y Japanet a $200M (targeting Generative AI, Physical AI y Space Technology)<sup class=\"cite\" data-n=\"19\">19</sup>, el patr&oacute;n es n&iacute;tido: el capital corporativo y el bancario se est&aacute;n sumando al ciclo con tesis propias y mandatos multi-a&ntilde;o. En 2021 esto hubiera sido se&ntilde;al de burbuja. En 2026, con valuaciones corregidas al nivel del S&amp;P 500 en forward P/E<sup class=\"cite\" data-n=\"8\">8</sup>, es institucionalizaci&oacute;n saludable.</p>\n\n<p>La implicaci&oacute;n para founders LATAM: los CVCs de corporativos globales son con frecuencia m&aacute;s flexibles en geograf&iacute;a que los VCs puros. Un CVC japon&eacute;s buscando exposure a GenAI puede escribir cheques en Buenos Aires, Bogot&aacute; o Monterrey si el equipo y el producto son los correctos. Ese canal est&aacute; infrautilizado en la regi&oacute;n y la tendencia sugiere que empezar&aacute; a usarse m&aacute;s en 2026.</p>\n\n<h3>Narrativa: qu&eacute; dicen las se&ntilde;ales de la tarde</h3>\n<p>Cuatro temas dominantes en la corrida de la tarde:</p>\n<ul>\n<li><strong>AMI $1B seed redibujar el mapa:</strong> Un seed de mil millones en una empresa parisina de AI foundation con Bezos, Cathay y Greycroft confirma que la carrera de modelos base ya es global. Silicon Valley ya no tiene el monopolio de los mega-deals en AI.</li>\n<li><strong>Banca institucional se hace VC:</strong> CAGR 21% en AI venture de los tres grandes bancos desde 2023 es la se&ntilde;al de maduraci&oacute;n m&aacute;s subestimada del d&iacute;a. El ciclo ya no depende solo de Sequoia y a16z.</li>\n<li><strong>IPO pipeline se carga en paralelo:</strong> Cerebras ($510M revenue, +76% YoY), Revolut (apunta a $150-200B valuaci&oacute;n), SpaceX (Musk consolida con $1.4B en shares). La ventana de salida al mercado p&uacute;blico se ve m&aacute;s abierta que en cualquier momento desde 2021.</li>\n<li><strong>LATAM mira hacia el norte activamente:</strong> 280 startups hispanas en Miami Startup Ol&eacute;, crecimiento del 50% en asistentes. Los founders latinoamericanos van al capital, no esperan que el capital los encuentre.</li>\n</ul>\n<p>La narrativa contraria no desapareci&oacute;: CREFC BOG Sentiment Index sigue reflejando el da&ntilde;o del shock geopol&iacute;tico del Q1, y Citi Wealth pide cautela ante la velocidad de la recuperaci&oacute;n<sup class=\"cite\" data-n=\"12\">12</sup>. La dualidad es la se&ntilde;al: mercado privado de AI en aceleraci&oacute;n, macro p&uacute;blico en recuperaci&oacute;n. One-liner: <em>&ldquo;La tarde del 21 confirma lo que la ma&ntilde;ana prometi&oacute;: el verde no era un flash, es tendencia.&rdquo;</em></p>\n\n<h3>Top deals del d&iacute;a (actualizados con la tarde)</h3>\n<ul>\n<li><strong>Amazon &harr; Anthropic</strong> &mdash; hasta $25.000M USD + $100.000M en compute (10 a&ntilde;os) &mdash; USA, AI infrastructure</li>\n<li><strong>Project Prometheus (Bezos AI lab)</strong> &mdash; ~$10.000M USD a valuaci&oacute;n $38.000M &mdash; USA, AI foundation</li>\n<li><strong>Advanced Machine Intelligence (AMI, Par&iacute;s)</strong> &mdash; $1.000M seed &mdash; Europa, AI foundation<sup class=\"cite\" data-n=\"1\">1</sup></li>\n<li><strong>Banco Plata (M&eacute;xico)</strong> &mdash; $405M Serie C, valuaci&oacute;n $5.000M &mdash; LATAM, fintech neobanking</li>\n<li><strong>SoftBank &rarr; DigitalBridge</strong> &mdash; $4.000M adquisici&oacute;n &mdash; USA/Global, AI infrastructure<sup class=\"cite\" data-n=\"6\">6</sup></li>\n<li><strong>Kailera Therapeutics</strong> &mdash; $625M IPO (+63% debut) &mdash; USA, biotech obesity</li>\n<li><strong>Kelonia / Eli Lilly</strong> &mdash; $3.250M adquisici&oacute;n &mdash; USA, biotech cell therapy</li>\n<li><strong>Humble</strong> &mdash; $24M seed (Eclipse) &mdash; USA, autonomous trucking</li>\n<li><strong>TraqCheck</strong> &mdash; $8M Serie A (IvyCap) &mdash; USA, HR tech AI<sup class=\"cite\" data-n=\"3\">3</sup></li>\n<li><strong>Shorta</strong> &mdash; $6M pre-seed &mdash; Argentina, content/media AI</li>\n</ul>\n\n<h3>Lectura del term&oacute;metro</h3>\n<p>Subimos medio escal&oacute;n a 7.1 desde el 7.0 de la ma&ntilde;ana (delta +0.1, tendencia plana). La banda sigue en verde. AMI con $1B en seed, bancos creciendo a CAGR 21% en AI venture, y Nasdaq apuntando a m&aacute;ximos hist&oacute;ricos<sup class=\"cite\" data-n=\"7\">7</sup> son se&ntilde;ales alcistas adicionales. El contrapeso sigue en pie: CREFC a&uacute;n registra ca&iacute;da del 20% en sentimiento Q1<sup class=\"cite\" data-n=\"13\">13</sup> y el mercado macro p&uacute;blico sigue procesando shocks m&uacute;ltiples. No rompemos hacia 8.0 sin m&aacute;s normalizaci&oacute;n macro visible. Pegasus Tech Ventures expandiendo su CVC a $200M con foco en GenAI, Physical AI y Space<sup class=\"cite\" data-n=\"19\">19</sup> y Revolut apuntando a $150-200B en IPO<sup class=\"cite\" data-n=\"15\">15</sup> muestran que hay combustible en la tuber&iacute;a. La lectura de 7.1 refleja ese balance con honestidad.</p>\n\n<h3>Qu&eacute; mirar en la pr&oacute;xima corrida</h3>\n<p>Tres se&ntilde;ales para la corrida de ma&ntilde;ana: (1) Confirmaci&oacute;n del deal SoftBank/DigitalBridge &mdash; si se cierra a los $4B anunciados, veremos r&eacute;plicas de otras instituciones en activos de infraestructura AI. (2) Timeline de roadshow de Cerebras &mdash; un S-1 con $510M en revenue y +76% YoY es el catalizador m&aacute;s concreto disponible para reabrir la ventana de IPO tech. (3) Reacci&oacute;n regulatoria de Brasil ante el uso corporativo de stablecoins: cualquier se&ntilde;al de Receita Federal o Banco Central sobre el uso de stablecoins para gesti&oacute;n de cash flow corporativo puede mover el ecosistema fintech brasile&ntilde;o en una direcci&oacute;n u otra de forma r&aacute;pida.</p>"
+    },
+    {
+      "id": "2026-04-21-morning",
+      "date": "2026-04-21",
+      "time": "12:05",
+      "run": "morning",
+      "title": "Verde incipiente: Amazon-Anthropic 25B, Bezos 10B y Kailera +63% prenden el termometro",
+      "subtitle": "Corrida de la manana (21 abr 2026) - Mega-deals AI en USA, IPO biotech exitoso y Banco Plata a 5B en Mexico mueven la aguja a 7.0.",
+      "sentiment_at_post": 7.0,
+      "sources_used": [
+        "CNBC",
+        "Anthropic",
+        "GeekWire",
+        "Yahoo Finance",
+        "Investing.com",
+        "STAT News",
+        "BioXconomy",
+        "BriefGlance",
+        "MSN / Bloomberg",
+        "Crunchbase News",
+        "Ventureburn",
+        "Citybiz",
+        "The AI World",
+        "TruckingInfo",
+        "Inc.",
+        "Canadian Defence Review",
+        "Startups LATAM",
+        "Forbes Argentina",
+        "Ecosistema Startup",
+        "TechCrunch",
+        "Morningstar",
+        "EU-Startups",
+        "Motley Fool"
+      ],
+      "word_count": 1950,
+      "citations": [
+        {
+          "n": 1,
+          "title": "Amazon invest up to $25 billion in Anthropic part of AI infrastructure",
+          "url": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
+          "date": "2026-04-20",
+          "source": "CNBC"
+        },
+        {
+          "n": 2,
+          "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of compute",
+          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+          "date": "2026-04-20",
+          "source": "Anthropic"
+        },
+        {
+          "n": 3,
+          "title": "Amazon doubles down on Anthropic with $25B investment, mirroring OpenAI cloud deal",
+          "url": "https://www.geekwire.com/2026/amazon-doubles-down-on-anthropic-with-25b-investment-mirroring-its-openai-cloud-deal/",
+          "date": "2026-04-20",
+          "source": "GeekWire"
+        },
+        {
+          "n": 4,
+          "title": "Bezos Nears $10 Billion AI Funding Round Valuing Prometheus At $38B",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/bezos-nears-10-billion-ai-150733052.html",
+          "date": "2026-04-21",
+          "source": "Yahoo Finance"
+        },
+        {
+          "n": 5,
+          "title": "Jeff Bezos' AI lab nears $38 billion valuation in funding deal, FT reports",
+          "url": "https://www.investing.com/news/stock-market-news/jeff-bezos-ai-lab-nears-38-billion-valuation-in-funding-deal-ft-reports-4625003",
+          "date": "2026-04-20",
+          "source": "Investing.com"
+        },
+        {
+          "n": 6,
+          "title": "Eli Lilly's $3.25 billion acquisition of Kelonia Therapeutics",
+          "url": "https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/",
+          "date": "2026-04-20",
+          "source": "STAT News"
+        },
+        {
+          "n": 7,
+          "title": "Kailera sets $16 IPO price, raising $625m for obesity care",
+          "url": "https://www.bioxconomy.com/investment/kailera-sets-16-ipo-price-raising-625m-to-revolutionize-obesity-care",
+          "date": "2026-04-20",
+          "source": "BioXconomy"
+        },
+        {
+          "n": 8,
+          "title": "Kailera's $719M IPO Ignites New Front in Obesity Drug Race",
+          "url": "https://briefglance.com/articles/kaileras-719m-ipo-ignites-new-front-in-obesity-drug-race",
+          "date": "2026-04-20",
+          "source": "BriefGlance"
+        },
+        {
+          "n": 9,
+          "title": "Obesity drugmaker Kailera soars 63% after $625 million IPO",
+          "url": "https://www.msn.com/en-us/health/other/obesity-drugmaker-kailera-soars-63-after-625-million-ipo/ar-AA218PB4",
+          "date": "2026-04-21",
+          "source": "MSN / Bloomberg"
+        },
+        {
+          "n": 10,
+          "title": "The New Unicorn Count Reached A 4-Year High In March, Led By Robotics & AI",
+          "url": "https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/",
+          "date": "2026-04-21",
+          "source": "Crunchbase News"
+        },
+        {
+          "n": 11,
+          "title": "Ideally Launches Ideally Canvas After $10M Series A",
+          "url": "https://ventureburn.com/ideally-launches-ideally-canvas-after-10m-series-a/",
+          "date": "2026-04-21",
+          "source": "Ventureburn"
+        },
+        {
+          "n": 12,
+          "title": "Qualitate Raises $7 Million Seed Round for AI Research Platform",
+          "url": "https://www.citybiz.co/article/834839/qualitate-raises-7-million-seed-round-to-build-ai-research-platform-for-investors-and-corporates/",
+          "date": "2026-04-21",
+          "source": "Citybiz"
+        },
+        {
+          "n": 13,
+          "title": "NudgeBee Raises $3M from Kalaari Capital for Agentic AI",
+          "url": "https://theaiworld.org/news/nudgebee-raises-3m-from-kalaari-capital-for-agentic-ai",
+          "date": "2026-04-21",
+          "source": "The AI World"
+        },
+        {
+          "n": 14,
+          "title": "Autonomous Start-Up Humble Announces Cabless Autonomous Electric Hauler",
+          "url": "https://www.truckinginfo.com/news/autonomous-start-up-humble-announces-cabless-autonomous-electric-hauler",
+          "date": "2026-04-21",
+          "source": "TruckingInfo"
+        },
+        {
+          "n": 15,
+          "title": "Inside Silicon Valley's Quest to Power the Trillion-Dollar War Machine",
+          "url": "https://www.inc.com/nancy-scola/inside-silicon-valleys-quest-to-power-the-trillion-dollar-war-machine/91332075",
+          "date": "2026-04-21",
+          "source": "Inc."
+        },
+        {
+          "n": 16,
+          "title": "Landing Zones Canada Secures Investment from BDC's StrongNorth Defence Fund",
+          "url": "https://canadiandefencereview.com/landing-zones-canada-secures-investment-from-bdcs-strongnorth-defence-fund/",
+          "date": "2026-04-20",
+          "source": "Canadian Defence Review"
+        },
+        {
+          "n": 17,
+          "title": "Banco Plata alcanza valuacion de US$5,000 tras ronda Serie C",
+          "url": "https://startupslatam.com/banco-plata-alcanza-valuacion-de-us5000-tras-ronda-serie-c/",
+          "date": "2026-04-20",
+          "source": "Startups LATAM"
+        },
+        {
+          "n": 18,
+          "title": "Armando Bo, Tomas Escobar y Ariel Arrieta lanzan Shorta - US$6M pre-seed",
+          "url": "https://www.forbesargentina.com/negocios/armando-bo-tomas-escobar-ariel-arrieta-lanzan-shorta-startup-levanto-us-6-millones-producira-100-series-formato-vertical-2026-n89562",
+          "date": "2026-04-21",
+          "source": "Forbes Argentina"
+        },
+        {
+          "n": 19,
+          "title": "Shorta: $6M para 100 series verticales en 2026",
+          "url": "https://ecosistemastartup.com/shorta-6m-para-100-series-verticales-en-2026/",
+          "date": "2026-04-21",
+          "source": "Ecosistema Startup"
+        },
+        {
+          "n": 20,
+          "title": "Revolut eyes valuation of up to $200B in eventual IPO",
+          "url": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
+          "date": "2026-04-21",
+          "source": "TechCrunch"
+        },
+        {
+          "n": 21,
+          "title": "Ahead of Cerebras' IPO, How Durable Are the AI Chipmaker's Profits?",
+          "url": "https://www.morningstar.com/stocks/ahead-cerebras-ipo-how-durable-are-ai-chipmakers-profits",
+          "date": "2026-04-21",
+          "source": "Morningstar"
+        },
+        {
+          "n": 22,
+          "title": "London's Passion Capital closes E46 million fourth Seed fund targeting AI and fintech",
+          "url": "https://www.eu-startups.com/2026/04/londons-passion-capital-closes-e46-million-fourth-seed-fund-targeting-ai-and-fintech-startups/",
+          "date": "2026-04-21",
+          "source": "EU-Startups"
+        },
+        {
+          "n": 23,
+          "title": "After Weeks of Extreme Fear, the Market Sentiment Index Just Jumped 20 Points",
+          "url": "https://www.fool.com/investing/2026/04/20/after-weeks-of-extreme-fear-the-market-sentiment-i/",
+          "date": "2026-04-21",
+          "source": "Motley Fool"
+        }
+      ],
+      "content_html": "<div class=\"sources-block\">\n  <strong>Fuentes consultadas en esta corrida (Firecrawl, ultimas 24h):</strong>\n  <ul class=\"sources-list\">\n    <li><a href=\"https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">CNBC &mdash; \"Amazon invest up to $25 billion in Anthropic part of AI infrastructure\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.anthropic.com/news/anthropic-amazon-compute\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Anthropic &mdash; \"Anthropic and Amazon expand collaboration for up to 5 gigawatts of compute\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.geekwire.com/2026/amazon-doubles-down-on-anthropic-with-25b-investment-mirroring-its-openai-cloud-deal/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">GeekWire &mdash; \"Amazon doubles down on Anthropic with $25B investment, mirroring OpenAI cloud deal\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://finance.yahoo.com/sectors/technology/articles/bezos-nears-10-billion-ai-150733052.html\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Yahoo Finance &mdash; \"Bezos Nears $10 Billion AI Funding Round Valuing Prometheus At $38B\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.investing.com/news/stock-market-news/jeff-bezos-ai-lab-nears-38-billion-valuation-in-funding-deal-ft-reports-4625003\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Investing.com &mdash; \"Jeff Bezos' AI lab nears $38 billion valuation in funding deal, FT reports\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">STAT News &mdash; \"Eli Lilly's $3.25 billion acquisition of Kelonia Therapeutics\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.bioxconomy.com/investment/kailera-sets-16-ipo-price-raising-625m-to-revolutionize-obesity-care\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">BioXconomy &mdash; \"Kailera sets $16 IPO price, raising $625m for obesity care\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://briefglance.com/articles/kaileras-719m-ipo-ignites-new-front-in-obesity-drug-race\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">BriefGlance &mdash; \"Kailera's $719M IPO Ignites New Front in Obesity Drug Race\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.msn.com/en-us/health/other/obesity-drugmaker-kailera-soars-63-after-625-million-ipo/ar-AA218PB4\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">MSN / Bloomberg &mdash; \"Obesity drugmaker Kailera soars 63% after $625 million IPO\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Crunchbase News &mdash; \"The New Unicorn Count Reached A 4-Year High In March, Led By Robotics & AI\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://ventureburn.com/ideally-launches-ideally-canvas-after-10m-series-a/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Ventureburn &mdash; \"Ideally Launches Ideally Canvas After $10M Series A\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.citybiz.co/article/834839/qualitate-raises-7-million-seed-round-to-build-ai-research-platform-for-investors-and-corporates/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Citybiz &mdash; \"Qualitate Raises $7 Million Seed Round for AI Research Platform\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://theaiworld.org/news/nudgebee-raises-3m-from-kalaari-capital-for-agentic-ai\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">The AI World &mdash; \"NudgeBee Raises $3M from Kalaari Capital for Agentic AI\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.truckinginfo.com/news/autonomous-start-up-humble-announces-cabless-autonomous-electric-hauler\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">TruckingInfo &mdash; \"Autonomous Start-Up Humble Announces Cabless Autonomous Electric Hauler\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.inc.com/nancy-scola/inside-silicon-valleys-quest-to-power-the-trillion-dollar-war-machine/91332075\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Inc. &mdash; \"Inside Silicon Valley's Quest to Power the Trillion-Dollar War Machine\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://canadiandefencereview.com/landing-zones-canada-secures-investment-from-bdcs-strongnorth-defence-fund/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Canadian Defence Review &mdash; \"Landing Zones Canada Secures Investment from BDC's StrongNorth Defence Fund\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://startupslatam.com/banco-plata-alcanza-valuacion-de-us5000-tras-ronda-serie-c/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Startups LATAM &mdash; \"Banco Plata alcanza valuacion de US$5,000 tras ronda Serie C\"</a> &mdash; 2026-04-20</li>\n    <li><a href=\"https://www.forbesargentina.com/negocios/armando-bo-tomas-escobar-ariel-arrieta-lanzan-shorta-startup-levanto-us-6-millones-producira-100-series-formato-vertical-2026-n89562\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Forbes Argentina &mdash; \"Armando Bo, Tomas Escobar y Ariel Arrieta lanzan Shorta - US$6M pre-seed\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://ecosistemastartup.com/shorta-6m-para-100-series-verticales-en-2026/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Ecosistema Startup &mdash; \"Shorta: $6M para 100 series verticales en 2026\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">TechCrunch &mdash; \"Revolut eyes valuation of up to $200B in eventual IPO\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.morningstar.com/stocks/ahead-cerebras-ipo-how-durable-are-ai-chipmakers-profits\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Morningstar &mdash; \"Ahead of Cerebras' IPO, How Durable Are the AI Chipmaker's Profits?\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.eu-startups.com/2026/04/londons-passion-capital-closes-e46-million-fourth-seed-fund-targeting-ai-and-fintech-startups/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">EU-Startups &mdash; \"London's Passion Capital closes E46 million fourth Seed fund targeting AI and fintech\"</a> &mdash; 2026-04-21</li>\n    <li><a href=\"https://www.fool.com/investing/2026/04/20/after-weeks-of-extreme-fear-the-market-sentiment-i/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Motley Fool &mdash; \"After Weeks of Extreme Fear, the Market Sentiment Index Just Jumped 20 Points\"</a> &mdash; 2026-04-21</li>\n  </ul>\n</div>\n\n<h3>Pulso macro</h3>\n<p>El dia amanecio con una senal clara: el capital no solo no se fue, sino que se esta concentrando con violencia en dos sectores puntuales. Amazon confirmo una inversion de hasta 25 mil millones de dolares en Anthropic<sup class=\"cite\" data-n=\"1\">1</sup>, sumandose a los 8 mil millones previos, y ademas anuncio un compromiso de mas de 100 mil millones en infraestructura AWS en los proximos diez anos para entrenar y correr Claude<sup class=\"cite\" data-n=\"2\">2</sup>. Casi en simultaneo, el Financial Times reporto que Jeff Bezos esta cerca de cerrar una ronda de 10 mil millones para su laboratorio de AI \"Project Prometheus\" a una valuacion de 38 mil millones<sup class=\"cite\" data-n=\"4\">4</sup><sup class=\"cite\" data-n=\"5\">5</sup>.</p>\n\n<p>Ese tipo de volumen no se ve en un mercado en retraccion. Ayer el Motley Fool reporto que el indice de sentimiento del mercado salto 20 puntos luego de semanas en \"miedo extremo\"<sup class=\"cite\" data-n=\"23\">23</sup>, y el conteo de nuevos unicornios marzo llego a maximo de cuatro anos, liderado por robotica y AI segun Crunchbase<sup class=\"cite\" data-n=\"10\">10</sup>. El termometro responde: nos movemos a 7.0 y entramos en la banda verde, con tendencia claramente al alza. Pero con un asterisco: la bonanza es extremadamente selectiva.</p>\n\n<h3>Estados Unidos</h3>\n<p>Fue una corrida caliente. El anuncio Amazon-Anthropic es el evento del dia y redefine el tablero de infraestructura AI: segun GeekWire, el deal replica el patron que Microsoft tuvo con OpenAI, con Amazon apostando 5 mil millones ahora y hasta 20 mil millones adicionales<sup class=\"cite\" data-n=\"3\">3</sup>. Combinado con los 100 mil millones en compute de la nota oficial de Anthropic, hablamos de uno de los compromisos corporativos de infraestructura mas grandes registrados<sup class=\"cite\" data-n=\"2\">2</sup>.</p>\n\n<p>Al lado de ese mega-deal, el universo de rondas AI \"tradicionales\" sigue funcionando. Ideally cerro una Serie A de 10 millones liderada por Shearwater Capital, llegando a una valuacion aproximada de 60 millones<sup class=\"cite\" data-n=\"11\">11</sup>. Qualitate levanto 7 millones en seed para construir una plataforma de AI research para inversionistas y corporates<sup class=\"cite\" data-n=\"12\">12</sup>. NudgeBee cerro 3 millones liderados por Kalaari Capital para automatizar operaciones cloud con agentic AI<sup class=\"cite\" data-n=\"13\">13</sup>. Y Humble, una startup de autonomous trucking, anuncio 24 millones en seed liderados por Eclipse para construir un hauler electrico sin cabina<sup class=\"cite\" data-n=\"14\">14</sup>.</p>\n\n<p>El biotech tuvo su propia jornada intensa. Eli Lilly acordo la adquisicion de Kelonia Therapeutics por 3.25 mil millones<sup class=\"cite\" data-n=\"6\">6</sup>, y en paralelo Kailera Therapeutics salio a bolsa recaudando 625 millones a 16 dolares por accion<sup class=\"cite\" data-n=\"7\">7</sup>. El debut fue fuerte: las acciones subieron 63 por ciento el primer dia<sup class=\"cite\" data-n=\"9\">9</sup>, con 625 millones destinados a financiar los ensayos Fase 3 del candidato ribupatide para obesidad<sup class=\"cite\" data-n=\"8\">8</sup>. Esa combinacion, Lilly consolidando via M&amp;A mientras otro obesity player accede al mercado publico con exito, es una senal fuerte de que la ventana de IPOs en biotech esta reabriendose.</p>\n\n<p>El tercer eje es defense &amp; dual-use. Inc. publico una investigacion sobre como Silicon Valley se esta \"armando\" para disputar el presupuesto de defensa<sup class=\"cite\" data-n=\"15\">15</sup>, y en Canada el StrongNorth Defence Fund de BDC (300 millones dedicado a deep tech de doble uso) cerro una inversion en Landing Zones Canada<sup class=\"cite\" data-n=\"16\">16</sup>. La tesis de soberania tecnologica post-2024 se esta convirtiendo en flujo real de capital institucional, no solo narrative.</p>\n\n<h3>Latinoamerica</h3>\n<p>La region tuvo un evento de escala atipica: Banco Plata, el banco digital mexicano, cerro una ronda Serie C de 405 millones de dolares alcanzando una valuacion de 5 mil millones<sup class=\"cite\" data-n=\"17\">17</sup>. Es una de las rondas mas grandes del ano en LATAM y valida que el fintech B2B/neobanking con cohortes solidas sigue consiguiendo capital growth aun con el ambiente de multiples comprimidos. Este solo deal explica el salto del 44 por ciento en capital agregado LATAM vs la corrida anterior.</p>\n\n<p>Del lado de seed y pre-seed, la nota mas comentada es Shorta, la startup argentina fundada por Armando Bo, Tomas Escobar y Ariel Arrieta, que levanto 6 millones para producir mas de 100 series en formato vertical 9:16 durante 2026<sup class=\"cite\" data-n=\"18\">18</sup><sup class=\"cite\" data-n=\"19\">19</sup>. El ticket es grande para el mercado audiovisual LATAM y confirma una tendencia que se viene notando: los founders hispanohablantes ya no piensan en producir \"contenido para LATAM\", piensan en producir para el ecosistema global de plataformas cortas y levantan ruedas acorde.</p>\n\n<p>El Brasil sigue con el patron que vimos la semana pasada: menos anuncios pero mas sustancia por deal. Rodadas menos visibles pero la narrativa stablecoins y fintech infrastructure tomo fuerza (Valor International reporto que stablecoins ganan traccion mas alla del nicho crypto). El evento Startup Ole Miami 2026 congrego 280 startups hispanohablantes buscando inversion, con 50% de crecimiento en asistentes vs 2025 segun la cobertura del Ecosistema Startup. Mexico mantiene la reunion Media Capital Forum donde se discute como los factores macro estan redefiniendo la inversion en startups.</p>\n\n<h3>Deep dive del dia: el duopolio hyperscaler-modelo se esta cerrando</h3>\n<p>Lo mas importante de hoy no es la cifra de 25 mil millones. Es el mensaje estrategico detras. Con Amazon ampliando su compromiso con Anthropic hasta 25 mil millones mas, y Microsoft con su posicion en OpenAI, tenemos el segundo hyperscaler que efectivamente \"caso\" un modelo foundation. Google tiene DeepMind in-house, Meta tiene Llama abierto, Oracle y CoreWeave se pelean por ser los proveedores \"independientes\". El mercado esta configurando una estructura donde el capital growth se concentra en la intersection compute + foundation model, y donde las ventures mas chicas tienen que elegir: o se paran arriba de uno de estos ecosistemas, o construyen algo realmente diferenciado en la capa de aplicacion.</p>\n\n<p>Por eso vemos en paralelo tanta energia en vertical AI agents: PYMNTS reporto que los inversionistas estan moviendose rapido hacia enterprise AI con enfoque vertical (recruiting, healthcare workforce, legal, supply chain) donde el ROI es medible y no dependes de ganar la guerra de modelos base. NudgeBee, Qualitate, Worki (2.75 millones pre-seed para healthcare workforce), TraqCheck (8 millones Serie A de IvyCap para HR tech AI) son ejemplos de esa capa. Para el analisis del termometro: esta bifurcacion (mega-deals en la base de la piramide, rondas chicas pero saludables en la capa de aplicacion) es saludable. No es burbuja uniforme, es especializacion.</p>\n\n<h3>Narrativa: que estan diciendo los inversionistas</h3>\n<p>Cuatro narrativas dominantes el dia de hoy:</p>\n<ul>\n<li>La tesis \"late-stage AI vale mas, no menos\" gano evidencia: Prometheus a 38 mil millones y Amazon-Anthropic son datos, no opiniones.</li>\n<li>El window de IPO biotech se esta entreabriendo: Kailera subiendo 63 por ciento el primer dia es la prueba mas contundente en meses de que hay apetito publico para nombres con narrativa clara (GLP-1 / obesity en este caso).</li>\n<li>Defense &amp; dual-use pasa de narrative a portfolio: BDC StrongNorth en Canada, NorthStar apuntando a 300 millones en capitalizacion, y Silicon Valley movilizandose segun Inc.</li>\n<li>LATAM vuelve a tener mega-deals: Banco Plata a 5 mil millones de valuacion cambia el piso de la discusion sobre fintech neobanking en la region.</li>\n</ul>\n<p>La narrativa contraria (gap de expectativa vs realidad) aparece en los datos de sentimiento. CREFC BOG reporto una caida de 20 por ciento en su indice trimestral por shock geopolitico, y Citi Wealth hablo de \"multiples shocks absorbidos simultaneamente\" en Q1. Entonces: el mercado privado se ve robusto en los segmentos que ganaron hoy, pero el mood macro publico sigue fragil. Esa dualidad es exactamente la razon por la que termometro marca 7.0 y no 8.5.</p>\n\n<h3>Top deals del dia</h3>\n<ul>\n<li><strong>Amazon &harr; Anthropic</strong> &mdash; hasta 25 mil millones USD + 100 mil millones en compute 10 anos &mdash; USA, AI infrastructure<sup class=\"cite\" data-n=\"1\">1</sup></li>\n<li><strong>Project Prometheus (Bezos)</strong> &mdash; ~10 mil millones USD, valuacion 38 mil millones &mdash; USA, AI foundation<sup class=\"cite\" data-n=\"4\">4</sup></li>\n<li><strong>Banco Plata</strong> &mdash; 405 millones USD Serie C, valuacion 5 mil millones &mdash; Mexico, fintech B2C/B2B<sup class=\"cite\" data-n=\"17\">17</sup></li>\n<li><strong>Kailera Therapeutics</strong> &mdash; 625 millones USD IPO (+63% debut) &mdash; USA, biotech obesity<sup class=\"cite\" data-n=\"7\">7</sup><sup class=\"cite\" data-n=\"9\">9</sup></li>\n<li><strong>Kelonia Therapeutics</strong> &mdash; 3.25 mil millones USD adquisicion por Eli Lilly &mdash; USA, biotech cell therapy<sup class=\"cite\" data-n=\"6\">6</sup></li>\n<li><strong>Humble</strong> &mdash; 24 millones USD seed (Eclipse lead) &mdash; USA, autonomous trucking<sup class=\"cite\" data-n=\"14\">14</sup></li>\n<li><strong>Ideally</strong> &mdash; 10 millones USD Serie A (Shearwater Capital) &mdash; USA, AI market research<sup class=\"cite\" data-n=\"11\">11</sup></li>\n<li><strong>Shorta</strong> &mdash; 6 millones USD pre-seed &mdash; Argentina, content/media AI<sup class=\"cite\" data-n=\"18\">18</sup></li>\n<li><strong>Qualitate</strong> &mdash; 7 millones USD seed &mdash; USA, vertical AI research<sup class=\"cite\" data-n=\"12\">12</sup></li>\n<li><strong>Passion Capital Fund IV</strong> &mdash; 46 millones EUR closed &mdash; UK, seed AI/fintech<sup class=\"cite\" data-n=\"22\">22</sup></li>\n</ul>\n\n<h3>Lectura del termometro</h3>\n<p>Subimos a 7.0 desde 6.2 (delta +0.8, tendencia al alza). La banda pasa de amber a verde incipiente. La justificacion es cuantitativa: 4 deals individuales por encima de mil millones concentrados en 24 horas (Amazon-Anthropic, Prometheus, Kelonia, suma LATAM Banco Plata), un IPO biotech con debut +63 por ciento reabriendo la ventana, y un indice de sentimiento saltando 20 puntos despues de semanas en miedo extremo<sup class=\"cite\" data-n=\"23\">23</sup>. No llegamos a 8.0 porque la bonanza sigue extremadamente concentrada (AI + biotech) y la senal macro publica sigue mixta (CREFC BOG cayendo, Citi hablando de shocks multiples). Revolut apuntando a 150-200 mil millones de valuacion en su IPO eventual<sup class=\"cite\" data-n=\"20\">20</sup> y Cerebras con revenue de 510 millones en 2025 +76 por ciento YoY filed para bolsa<sup class=\"cite\" data-n=\"21\">21</sup> indican que hay mas combustible en la tuberia.</p>\n\n<h3>Que mirar en la proxima corrida</h3>\n<p>Tres temas a seguir en la tarde: (1) Si hay follow-on commentary sobre el deal Amazon-Anthropic (analistas, reaccion en el precio de AMZN y competidores hyperscaler). (2) Si sale filing adicional en Kelonia o alguna otra transaccion biotech similar que confirme la ola M&amp;A. (3) Latam: rumores de ronda cercana para otro neobanco post-validacion Banco Plata. Mantenemos vigilancia sobre CREFC y cualquier escalada geopolitica que pueda cambiar el mood publico aunque el privado luzca robusto.</p>"
+    },
+    {
+      "id": "2026-04-20-setup",
+      "date": "2026-04-20",
+      "time": "07:00",
+      "run": "morning",
+      "title": "Lectura inicial: por que el termometro marca 6.2 y no mas",
+      "subtitle": "Abril 2026 - el mercado sigue bifurcado entre la euforia de AI y la disciplina del resto.",
+      "sentiment_at_post": 6.2,
+      "sources_used": [
+        "tc",
+        "cbn",
+        "pb",
+        "ax",
+        "ti",
+        "bb",
+        "cb",
+        "cx",
+        "bl",
+        "se",
+        "lr",
+        "ee",
+        "iu"
+      ],
+      "word_count": 1650,
+      "note": "Post de arranque del termometro con seccion de fuentes al inicio.",
+      "content_html": "<p><em>Post de arranque del termometro.</em> A partir de esta corrida, un agente consulta las fuentes en vivo y genera analisis actualizado dos veces al dia.</p><p>La lectura inicial de 6.2 reflejaba un mercado <strong>cauteloso con bolsones de euforia</strong>: abundancia de dry powder pero disciplina de despliegue. La banda 6-7 es el equilibrio inquieto que puede moverse con cualquier catalizador macro. El post de hoy registra justamente ese movimiento (a 7.0) impulsado por mega-deals concentrados en AI y biotech.</p>",
+      "citations": []
+    }
+  ]
+}

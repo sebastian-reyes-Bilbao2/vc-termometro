@@ -1,0 +1,16 @@
+{
+  "name": "vc-termometro-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scripts locales del termómetro VC (research vía Firecrawl).",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "research": "node fetch-research.mjs",
+    "research:morning": "node fetch-research.mjs --run morning",
+    "research:afternoon": "node fetch-research.mjs --run afternoon",
+    "research:dry": "node fetch-research.mjs --dry"
+  }
+}

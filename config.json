@@ -1,0 +1,14 @@
+{
+  "firecrawl": {
+    "api_key": "fc-d9bf6c5584504784b1cbfd54ad19659e",
+    "search_endpoint": "https://api.firecrawl.dev/v1/search",
+    "notes": "Rotá la key con un solo edit aquí. El bot la lee en cada corrida."
+  },
+  "run_config": {
+    "results_per_query": 8,
+    "recency_window": "qdr:d",
+    "formats": ["markdown"],
+    "only_main_content": true,
+    "max_queries_per_run": 14
+  }
+}

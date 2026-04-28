@@ -1,15 +1,15 @@
 {
   "meta": {
-    "updated_at": "2026-04-27T12:50:00-05:00",
-    "last_run_label": "Corrida de la tarde - 27 de abril 2026",
+    "updated_at": "2026-04-28T07:47:00-05:00",
+    "last_run_label": "Corrida de la mañana - 28 de abril 2026",
     "artifact_id": "vc-termometro"
   },
   "thermometer": {
-    "level": 7.3,
-    "label": "Verde acelerado: fase 2 del ciclo post-megadeal confirma escala — AGI race y coding agents en nueva dimensión",
-    "description": "Ineffable Intelligence levanta $1.1B seed (mayor de la historia en Europa), Cognition AI en talks a $25B y SpaceX/Cursor a $60B confirman que los coding agents pasaron de demos a activos corporativos estratégicos. Q1 2026 fue un trimestre récord histórico ($300B globales). China bloquea Meta-Manus (geopolítica AI). LATAM: Argentina con Satellites on Fire $2.7M (climatech, Córdoba).",
+    "level": 7.4,
+    "label": "Verde acelerado — consolidación institucional: KPMG certifica Q1 en $330.9B y LATAM alcanza su mejor trimestre desde 2022",
+    "description": "KPMG confirma Q1 2026 global en $330.9B (vs. $300B prev. estimado) — el ciclo es más fuerte de lo que se pensaba. LAVCA reporta LATAM Q1 en $1.3B, mejor desde 2022. Kailera $625M IPO (biotech obesidad). Ineffable Intelligence $1.1B seed y coding agents mantienen momentum. VIX baja a 18.02.",
     "trend": "up",
-    "trend_delta": 0.2,
+    "trend_delta": 0.1,
     "color_band": "green"
   },
   "volume": {
@@ -40,16 +40,97 @@
   },
   "narrative": {
     "dominant_themes": [
-      "Carrera AGI escala umbral: Ineffable Intelligence $1.1B seed en UK confirma que el mercado financia hipótesis específicas de AGI (reinforcement learning sin datos humanos) — segundo record seed de $1B+ en AI en dos semanas",
-      "Coding agents como activos corporativos estratégicos: Cognition AI a $25B valuation y SpaceX/Cursor a $60B señalan que el coding agent layer pasó de producto a infraestructura crítica para empresas de ingeniería",
-      "AI soberano como geopolítica: China bloquea Meta-Manus, Cohere+Aleph Alpha €500M en Europa, UK Sovereign AI Fund co-invierte en Ineffable — los estados tratan el AI como activo nacional, no como mercado libre",
-      "Q1 2026 all-time record: $300B globales en funding de startups, 150% YoY, 47 unicornios en un trimestre — el ciclo no está en corrección sino en aceleración fase 2",
-      "Argentina lidera LATAM climatech: Satellites on Fire $2.7M (Córdoba) + Shorta $6M — dos semanas consecutivas de deals argentinos; el ecosistema produce deep tech ambiental con 21 países de distribución",
-      "Stablecoins B2B se institucionalizan: Juniper Research proyecta $5T en transacciones B2B para 2035, cubriendo explícitamente 8 países de LATAM — la tesis tiene ahora validación cuantitativa"
+      "KPMG certifica Q1 2026 en $330.9B — dato institucional supera estimados previos ($300B): el mercado global de venture está en su trimestre más fuerte desde 2021, con 8,464 deals y concentración en AI megadeals de EE.UU.",
+      "LATAM Q1 2026: $1.3B, mejor trimestre desde 2022 — LAVCA valida el momentum regional; México lidera; el ecosistema latinoamericano no está atrapado en el ruido macro sino creciendo en estructura",
+      "Carrera AGI en fase de consolidación: Ineffable Intelligence $1.1B seed mantiene atención institucional, NeoCognition $40M y Mosaic $18M confirman que el layer de agentes especializados sigue recibiendo capital",
+      "Biotech pública: Kailera $625M IPO (obesidad) es el mayor listing de biotech en EE.UU. desde 2021 — la ventana de salidas al mercado para biotech se está abriendo activamente",
+      "AI soberano consolida como categoría: China-Meta-Manus bloqueado + Cohere/Aleph Alpha €500M + UK Sovereign AI Fund en Ineffable — tres señales en 24h que confirman la \"soberanización\" del AI como política de Estado",
+      "VIX bajando a 18 — moderación de volatilidad sostenida: el mercado público muestra estabilidad relativa, lo que apoya la ventana de fundraising y la disposición de LPs a comprometer capital en fondos nuevos"
     ],
-    "one_liner": "El 27 de abril reescribe el guión: Ineffable Intelligence a $1.1B confirma que AMI no fue un accidente — es el nuevo estándar de la carrera AGI, y los coding agents ya son activos estratégicos que SpaceX quiere comprar a $60B."
+    "one_liner": "La mañana del 28 confirma lo que la tarde del 27 insinuó: KPMG eleva el Q1 a $330.9B y LATAM muestra su mejor arranque en cuatro años — el verde del termómetro tiene respaldo institucional, no solo titulares."
   },
   "blog_posts": [
+    {
+      "id": "2026-04-28-morning",
+      "date": "2026-04-28",
+      "time": "07:47",
+      "run": "morning",
+      "title": "28 de abril — Mañana: KPMG certifica Q1 en $330.9B y LATAM confirma su mejor trimestre desde 2022",
+      "subtitle": "Corrida de la mañana (28 abr 2026) — El dato institucional supera las estimaciones: $330.9B globales en Q1, $1.3B en LATAM (LAVCA), Kailera $625M IPO marca apertura de ventana pública en biotech, y el VIX cede a 18.",
+      "sentiment_at_post": 7.4,
+      "sources_used": [
+        "KPMG Private Enterprise / PitchBook",
+        "LAVCA / El Cronista / MSN",
+        "Bloomberg / MSN (Kailera IPO)",
+        "CNBC",
+        "Ecosistema Startup",
+        "WSJ",
+        "The AI Insider",
+        "Proactiveinvestors",
+        "Juniper Research",
+        "Arab Founders"
+      ],
+      "word_count": 1980,
+      "citations": [
+        {
+          "n": 1,
+          "outlet": "KPMG Private Enterprise",
+          "title": "Q1'26 Venture Pulse Report – Global trends: $330.9B across 8,464 deals",
+          "url": "https://kpmg.com/in/en/insights/2026/04/venture-pulse-q1-2026.html",
+          "date": "2026-04-27"
+        },
+        {
+          "n": 2,
+          "outlet": "LAVCA / El Cronista",
+          "title": "La inversión en venture capital en Latam vive su mejor primer trimestre desde 2022",
+          "url": "https://www.msn.com/es-mx/dinero/noticias/la-inversi%C3%B3n-en-venture-capital-en-latam-vive-su-mejor-primer-trimestre-desde-2022/ar-AA219gWP",
+          "date": "2026-04-27"
+        },
+        {
+          "n": 3,
+          "outlet": "Bloomberg / MSN",
+          "title": "Obesity treatment firm Kailera upsizes IPO to raise $625 million",
+          "url": "https://www.msn.com/en-us/health/other/obesity-treatment-firm-kailera-upsizes-ipo-to-raise-625-million/ar-AA214gAO",
+          "date": "2026-04-28"
+        },
+        {
+          "n": 4,
+          "outlet": "CNBC",
+          "title": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
+          "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+          "date": "2026-04-27"
+        },
+        {
+          "n": 5,
+          "outlet": "Proactiveinvestors",
+          "title": "GLP-1 pill race heats up as Wegovy tablet holds strong against Lilly rival",
+          "url": "https://www.proactiveinvestors.com/companies/news/1091225/glp-1-pill-race-heats-up-as-wegovy-tablet-holds-strong-against-lilly-rival-1091225.html",
+          "date": "2026-04-27"
+        },
+        {
+          "n": 6,
+          "outlet": "The AI Insider",
+          "title": "NeoCognition Raises $40M to Build Self-Learning AI Agents That Specialise Like Humans",
+          "url": "https://theaiinsider.tech/2026/04/27/neocognition-raises-40m-to-build-self-learning-ai-agents-that-specialise-like-humans/",
+          "date": "2026-04-27"
+        },
+        {
+          "n": 7,
+          "outlet": "Arab Founders",
+          "title": "Brazil-Based Startup Nuvidio Raises $1.1M for AI Fraud Prevention",
+          "url": "https://arabfounders.net/en/nuvidio-ai-fraud-prevention-funding/",
+          "date": "2026-04-26"
+        },
+        {
+          "n": 8,
+          "outlet": "Funds Society",
+          "title": "La evolución de las fintech, el sector favorito del VC latinoamericano",
+          "url": "https://www.fundssociety.com/es/noticias/alternativos/la-evolucion-de-las-fintech-el-sector-favorito-del-vc-latinoamericano/",
+          "date": "2026-04-27"
+        }
+      ],
+      "content_html": "<div class=\"sources-block\">\n  <strong>Fuentes consultadas en esta corrida (findings.json local &mdash; Firecrawl, 28 de abril 2026, corrida mañana):</strong>\n  <ul class=\"sources-list\">\n    <li><a href=\"https://kpmg.com/in/en/insights/2026/04/venture-pulse-q1-2026.html\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">KPMG Private Enterprise &mdash; &ldquo;Q1&rsquo;26 Venture Pulse Report: $330.9B globales, 8,464 deals&rdquo;</a> &mdash; 2026-04-27</li>\n    <li><a href=\"https://www.msn.com/es-mx/dinero/noticias/la-inversi%C3%B3n-en-venture-capital-en-latam-vive-su-mejor-primer-trimestre-desde-2022/ar-AA219gWP\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">LAVCA / El Cronista &mdash; &ldquo;LATAM VC Q1 2026: $1.3B, mejor trimestre desde 2022&rdquo;</a> &mdash; 2026-04-27</li>\n    <li><a href=\"https://www.msn.com/en-us/health/other/obesity-treatment-firm-kailera-upsizes-ipo-to-raise-625-million/ar-AA214gAO\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Bloomberg &mdash; &ldquo;Obesity treatment firm Kailera upsizes IPO to raise $625 million&rdquo;</a> &mdash; 2026-04-28</li>\n    <li><a href=\"https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">CNBC &mdash; &ldquo;Former Google DeepMind researcher&rsquo;s AI startup raises record $1.1 billion seed funding&rdquo;</a> &mdash; 2026-04-27</li>\n    <li><a href=\"https://www.proactiveinvestors.com/companies/news/1091225/glp-1-pill-race-heats-up-as-wegovy-tablet-holds-strong-against-lilly-rival-1091225.html\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Proactiveinvestors &mdash; &ldquo;GLP-1 pill race: Wegovy tablet holds strong against Lilly rival&rdquo;</a> &mdash; 2026-04-27</li>\n    <li><a href=\"https://theaiinsider.tech/2026/04/27/neocognition-raises-40m-to-build-self-learning-ai-agents-that-specialise-like-humans/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">The AI Insider &mdash; &ldquo;NeoCognition Raises $40M to Build Self-Learning AI Agents&rdquo;</a> &mdash; 2026-04-27</li>\n    <li><a href=\"https://arabfounders.net/en/nuvidio-ai-fraud-prevention-funding/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Arab Founders &mdash; &ldquo;Brazil-Based Startup Nuvidio Raises $1.1M for AI Fraud Prevention&rdquo;</a> &mdash; 2026-04-26</li>\n    <li><a href=\"https://www.fundssociety.com/es/noticias/alternativos/la-evolucion-de-las-fintech-el-sector-favorito-del-vc-latinoamericano/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Funds Society &mdash; &ldquo;La evoluci&oacute;n de las fintech, el sector favorito del VC latinoamericano&rdquo;</a> &mdash; 2026-04-27</li>\n  </ul>\n</div>\n\n<h3>Pulso macro</h3>\n<p>La corrida de la ma&ntilde;ana del 28 de abril es una corrida de consolidaci&oacute;n, no de ruptura. El hallazgo central viene del reporte institucional m&aacute;s s&oacute;lido disponible: KPMG Private Enterprise public&oacute; el Venture Pulse Q1&rsquo;26 y los n&uacute;meros son m&aacute;s grandes que los estimados previos<sup class=\"cite\" data-n=\"1\">1</sup>. La inversi&oacute;n global de venture capital en el primer trimestre alcanz&oacute; <strong>$330.9 mil millones en 8.464 deals</strong>, superando la cifra de $300B que circulaba la semana pasada. El Q1&rsquo;26 se posiciona como uno de los trimestres m&aacute;s activos desde 2021, con las Am&eacute;ricas capturando aproximadamente el 80% del total global. La concentraci&oacute;n en AI megadeals es real: unos pocos rounds de miles de millones sesgan los totales, pero el volumen de deals tambi&eacute;n acompa&ntilde;a.</p>\n\n<p>Los mercados al abrir del 28 de abril reflejan estabilidad: el DJIA cerr&oacute; en 49.167, el S&amp;P 500 en 7.173, el Nasdaq en 24.887. El VIX cede a 18.02 &mdash; m&aacute;s bajo que el cierre de 18.48 del 27 &mdash;, continuando la tendencia de moderaci&oacute;n de la volatilidad. El oro sube levemente a $4.707 (cobertura a&uacute;n presente pero sin aceleraci&oacute;n), el petr&oacute;leo cede a $96.66, y Bitcoin permanece en $77.208 &mdash; a&uacute;n lejos de los $100K. El balance: mercados p&uacute;blicos estables, condiciones macro favorables para fundraising, sin se&ntilde;ales de disrupi&oacute;n aguda.</p>\n\n<h3>Estados Unidos</h3>\n<p>La noticia de biotech m&aacute;s relevante que confirma las findings de esta ma&ntilde;ana es el IPO de Kailera Therapeutics<sup class=\"cite\" data-n=\"3\">3</sup>. La empresa de obesidad clínica levant&oacute; <strong>$625 millones en su debut b&uacute;rsatil ampliado</strong>, al precio tope de su rango proyectado ($16 por acci&oacute;n, 39 millones de acciones). Seg&uacute;n Bloomberg, es el mayor listing de biotech en EE.UU. desde 2021. La se&ntilde;al no es solo el monto: es la calidad de la demanda. Un IPO sobresuscrito al tope de rango en 2026 indica que los inversionistas p&uacute;blicos volvieron a confiar en el pipeline cl&iacute;nico de obesidad &mdash; una categor&iacute;a que el a&ntilde;o pasado tuvo m&aacute;s hype que exits reales.</p>\n\n<p>La carrera de GLP-1 oral a&ntilde;ade contexto a ese dato. Seg&uacute;n datos de IQVIA, la p&iacute;ldora Wegovy de Novo Nordisk alcanz&oacute; 124.000 prescripciones totales en su semana 15 en EE.UU., con crecimiento del 10% semanal<sup class=\"cite\" data-n=\"5\">5</sup>. En su misma semana 15, Zepbound (inyectable de Lilly) ten&iacute;a prescripciones comparables, pero el oral de Lilly (Foundayo) apenas debutaba con ~3.700 prescripciones en su primera semana completa. Novo Nordisk lleva ventaja neta en early scripts de GLP-1 oral. Para el ecosistema de inversi&oacute;n, el mensaje es claro: la apuesta correcta en biotech p&uacute;blica no es la empresa que tiene el mejor mol&eacute;cula, sino la que mejor escala la penetraci&oacute;n comercial &mdash; y ahora mismo, Novo lidera en esa m&eacute;trica.</p>\n\n<p>En el frente de AI, la narrativa del 27 de abril se sostiene sin turbulencias. Ineffable Intelligence<sup class=\"cite\" data-n=\"4\">4</sup> sigue siendo el deal de referencia de la semana: $1.1B seed, $5.1B valuaci&oacute;n, Sequoia + Lightspeed + Google + NVIDIA + UK Sovereign AI Fund. NeoCognition<sup class=\"cite\" data-n=\"6\">6</sup> con $40M seed complementa el mapa: si Ineffable financia la hip&oacute;tesis AGI a largo plazo, NeoCognition financia la aplicaci&oacute;n empresarial de agentes de corto plazo. Ambas reciben capital porque apuntan a problemas distintos en la misma curva de adopci&oacute;n de AI.</p>\n\n<p>La consolidaci&oacute;n del KPMG Venture Pulse<sup class=\"cite\" data-n=\"1\">1</sup> cambia el frame del ciclo. El n&uacute;mero de $330.9B &mdash; m&aacute;s preciso que los $300B estimados por The Innovation Attorney hace 48 horas &mdash; significa que Q1 2026 fue <em>a&uacute;n m&aacute;s grande</em> de lo que se pensaba. KPMG confirma adem&aacute;s que el late-stage rebota con fuerza, los deal sizes en las &uacute;ltimas etapas alcanzaron m&aacute;ximos hist&oacute;ricos impulsados por AI megadeals, y que las Am&eacute;ricas dominaron con el ~80% del total. Para los VCs de LATAM, este dato importa: los LP internacionales que eval&uacute;an alocar a emergentes miran Q1 como signal de appetito global. Un Q1 fuerte en EE.UU. facilita los pitches de fondos LATAM en Europa y Asia.</p>\n\n<h3>Latinoam&eacute;rica</h3>\n<p>El dato estructural del d&iacute;a viene de LAVCA<sup class=\"cite\" data-n=\"2\">2</sup>: las startups latinoamericanas levantaron <strong>$1.300 millones en Q1 2026</strong>, comparado con $978 millones en Q1 2025. Es el primer trimestre m&aacute;s fuerte desde 2022. M&eacute;xico cerr&oacute; el trimestre liderando en capital captado; Brasil y Colombia tambi&eacute;n muestran actividad consistente. El dato de LAVCA no es un estimado ni un pipeline &mdash; es capital realmente comprometido y anunciado. Para el Term&oacute;metro, este n&uacute;mero es la confirmaci&oacute;n institucional que faltaba: la tendencia positiva observada en deals individuales (Satellites on Fire, Nuvidio, Shorta) no es ruido &mdash; es parte de un trimestre estructuralmente m&aacute;s fuerte.</p>\n\n<p>En el plano de deals nuevos confirmados esta ma&ntilde;ana, Nuvidio de Brasil<sup class=\"cite\" data-n=\"7\">7</sup> sigue en foco. La startup de prevenci&oacute;n de fraude digital y confianza via video-biom&eacute;trica (DOMO.VC + &aacute;ngeles brasileros) tiene ahora $1.9M en total funding y planes de expansi&oacute;n regional. El producto &mdash; video como evidencia legal auditable &mdash; tiene aplicaci&oacute;n directa en banca, fintech, seguros y servicios de gobierno digital. En un ecosistema donde el fraude de identidad digital es cr&iacute;tico, la propuesta de Nuvidio resuelve un pain point real.</p>\n\n<p>El an&aacute;lisis de Funds Society<sup class=\"cite\" data-n=\"8\">8</sup> sobre el ecosistema fintech LATAM a&ntilde;ade marco estructural: con $15.230M en tama&ntilde;o de mercado en 2025 y proyecci&oacute;n a $54.010M para 2034 (CAGR 15%), las fintechs del ecosistema capturan el 61% del capital de VC latam con solo el 29% de las operaciones. Esto confirma la asimetr&iacute;a de valuaci&oacute;n: los inversores latinoamericanos est&aacute;n dispuestos a pagar primas m&aacute;s altas en fintech que en cualquier otro sector. Para founders no-fintech, el desaf&iacute;o es claro: posicionarse en el margen de una tesis de fintech (infraestructura de pagos, cumplimiento, identidad digital) o aceptar la disciplina de valuaci&oacute;n del sector en el que operan.</p>\n\n<h3>Deep dive: cuando el dato institucional corrige el estimado de mercado</h3>\n<p>En ciclos alcistas, el mercado tiende a circular estimados optimistas r&aacute;pidamente. La semana pasada, $300B en Q1 2026 fue el n&uacute;mero que domin&oacute; el ciclo noticioso, citado por The Innovation Attorney y repetido por m&uacute;ltiples newsletters. Hoy, KPMG publica su informe con acceso a datos de PitchBook con corte al 31 de marzo de 2026, y el n&uacute;mero oficial es $330.9B<sup class=\"cite\" data-n=\"1\">1</sup>. Esa diferencia &mdash; $30.9B &mdash; equivale a todo el capital que ingres&oacute; a LATAM en m&aacute;s de dos a&ntilde;os de actividad.</p>\n\n<p>El mecanismo importa: en venture, el timing del dato cambia la narrativa. Los $300B crearon expectativa; los $330.9B confirman que el mercado fue incluso m&aacute;s activo de lo que los primeros estimados suger&iacute;an. Para los LPs que necesitan justificaci&oacute;n para nuevos compromisos de capital, el reporte de KPMG es m&aacute;s persuasivo que cualquier newsletter porque viene de una firma con metodolog&iacute;a auditada. Es el tipo de dato que mueve comit&eacute;s de inversi&oacute;n, no solo lectores de Substack.</p>\n\n<p>El patr&oacute;n se repite con LATAM: los $1.3B de LAVCA<sup class=\"cite\" data-n=\"2\">2</sup> tienen el mismo peso institucional. LAVCA es la fuente de referencia para capital privado en Am&eacute;rica Latina; sus datos son los que citan los fondos globales cuando eval&uacute;an exposici&oacute;n regional. El hecho de que el Q1 m&aacute;s fuerte desde 2022 est&eacute; documentado en LAVCA significa que entrar&aacute; en las presentaciones de muchos LPs a lo largo del segundo trimestre. Eso es un driver de capital futuro, no solo un registro del pasado.</p>\n\n<h3>Narrativa</h3>\n<p>Cuatro se&ntilde;ales definen el an&aacute;lisis del 28 de abril por la ma&ntilde;ana:</p>\n\n<p><strong>El ciclo es m&aacute;s grande de lo que se pensaba.</strong> $330.9B en Q1 2026<sup class=\"cite\" data-n=\"1\">1</sup> no es el &ldquo;mismo ciclo con otro titular&rdquo;. Es la confirmaci&oacute;n de que el mercado global de venture est&aacute; operando en un r&eacute;gimen distinto al de 2023 y 2024. El 80% liderado por Am&eacute;ricas no es un dato sorpresivo, pero su concentraci&oacute;n en AI define d&oacute;nde van los LPs.</p>\n\n<p><strong>LATAM tiene datos ahora, no solo intenci&oacute;n.</strong> $1.3B en Q1 2026<sup class=\"cite\" data-n=\"2\">2</sup> es el n&uacute;mero que cambia el discurso regional de &ldquo;a pesar del entorno&rdquo; a &ldquo;aprovechando el entorno&rdquo;. Los fondos y founders que necesitaban evidencia para sus narrativas de fundraising ahora la tienen.</p>\n\n<p><strong>La ventana de salidas p&uacute;blicas en biotech est&aacute; abierta.</strong> Kailera $625M<sup class=\"cite\" data-n=\"3\">3</sup> no es solo un IPO de obesidad. Es la se&ntilde;al de que el mercado p&uacute;blico de EE.UU. est&aacute; dispuesto a absorber biotech cl&iacute;nico-etapa con precios al tope de rango. Para el pipeline de startups de healthtech en LATAM con planes de exit, la ventana 2026 es real.</p>\n\n<p><strong>El VIX a 18 sostiene el momentum.</strong> La moderaci&oacute;n de la volatilidad no es drama, pero es condici&oacute;n necesaria. Mientras el VIX permanezca por debajo de 20, los LPs globales tienen apetito para nuevos compromisos. Por encima de 25, la historia cambia r&aacute;pido. El 18.02 de hoy es zona de confort.</p>\n\n<p><em>One-liner: &ldquo;La ma&ntilde;ana del 28 confirma lo que la tarde del 27 insinuaba: KPMG eleva el Q1 a $330.9B y LATAM muestra su mejor arranque en cuatro a&ntilde;os &mdash; el verde del term&oacute;metro tiene respaldo institucional, no solo titulares.&rdquo;</em></p>\n\n<h3>Top deals del per&iacute;odo (confirmados en esta corrida)</h3>\n<ul>\n<li><strong>Kailera Therapeutics</strong> &mdash; $625M IPO &mdash; USA, biotech obesidad / GLP-1 adyacente<sup class=\"cite\" data-n=\"3\">3</sup></li>\n<li><strong>Ineffable Intelligence</strong> &mdash; $1.100M seed, valuaci&oacute;n $5.100M &mdash; UK/Europa, AI foundation / reinforcement learning<sup class=\"cite\" data-n=\"4\">4</sup></li>\n<li><strong>NeoCognition</strong> &mdash; $40M seed &mdash; USA, AI agents autoaprendizaje<sup class=\"cite\" data-n=\"6\">6</sup></li>\n<li><strong>Nuvidio</strong> &mdash; $1.1M post-seed (total $1.9M) &mdash; Brasil, AI fraud prevention / digital trust<sup class=\"cite\" data-n=\"7\">7</sup></li>\n</ul>\n\n<h3>Lectura del term&oacute;metro</h3>\n<p>Sube a 7.4 desde 7.3 (delta +0.1, tendencia alcista sostenida). La corrida de ma&ntilde;ana del 28 de abril no trae deals rupturistas nuevos, pero s&iacute; trae datos institucionales que refuerzan el verde: el KPMG Q1 en $330.9B<sup class=\"cite\" data-n=\"1\">1</sup> eleva el nivel de partida del ciclo, el LATAM $1.3B de LAVCA<sup class=\"cite\" data-n=\"2\">2</sup> conf irma que la regi&oacute;n crece en estructura, el IPO de Kailera<sup class=\"cite\" data-n=\"3\">3</sup> valida la apertura de ventana p&uacute;blica, y el VIX a 18.02 mantiene condiciones macro. Para llegar a 7.5&ndash;7.8 necesitamos: deal LATAM de $50M+, confirmaci&oacute;n del cierre SpaceX/Cursor, o un recorte de tasas de la Fed. El verde acelerado sigue: ahora con datos, no solo narrativa.</p>\n\n<h3>Qu&eacute; mirar en la pr&oacute;xima corrida</h3>\n<p>Cuatro se&ntilde;ales para el resto del 28 de abril: (1) Confirmaci&oacute;n oficial del deal SpaceX/Cursor &mdash; si se materializa en anuncio formal, es la mayor adquisici&oacute;n de herramienta de AI por empresa no-tech de la historia. (2) Aprobaci&oacute;n regulatoria del merger Cohere-Aleph Alpha en Europa &mdash; la velocidad de respuesta regulatoria indica cu&aacute;n urgente perciben los gobiernos europeos la necesidad de AI soberano. (3) Cualquier deal en Colombia, Chile o Per&uacute; &mdash; el Q1 LATAM fue liderado por M&eacute;xico pero el pipeline de los tres pa&iacute;ses sigue activo seg&uacute;n LAVCA. (4) Actualizaci&oacute;n de Cerebras IPO timeline &mdash; el primer chip AI company en bolsa ser&iacute;a la se&ntilde;al definitiva de apertura de ventana p&uacute;blica en hardware AI.</p>"
+    },
     {
       "id": "2026-04-27-afternoon",
       "date": "2026-04-27",

@@ -1,55 +1,166 @@
 {
   "meta": {
-    "updated_at": "2026-04-28T07:47:00-05:00",
-    "last_run_label": "Corrida de la mañana - 28 de abril 2026",
+    "updated_at": "2026-04-30T12:00:00-05:00",
+    "last_run_label": "Corrida de la mañana - 30 de abril 2026",
     "artifact_id": "vc-termometro"
   },
   "thermometer": {
-    "level": 7.4,
-    "label": "Verde acelerado — consolidación institucional: KPMG certifica Q1 en $330.9B y LATAM alcanza su mejor trimestre desde 2022",
-    "description": "KPMG confirma Q1 2026 global en $330.9B (vs. $300B prev. estimado) — el ciclo es más fuerte de lo que se pensaba. LAVCA reporta LATAM Q1 en $1.3B, mejor desde 2022. Kailera $625M IPO (biotech obesidad). Ineffable Intelligence $1.1B seed y coding agents mantienen momentum. VIX baja a 18.02.",
+    "level": 7.6,
+    "label": "Verde intenso — Anthropic apunta a $900B y Big Tech valida $725B en capex AI: el ciclo alcanza nuevo piso",
+    "description": "Anthropic evalúa ronda a $850–900B+ (de $380B en feb) que desbancaría a OpenAI ($852B). Big Tech Q1: AWS +28%, Meta $26.8B ganancia, $725B en capex AI combinado para 2026. True Anomaly $650M (defensa espacial). Cursor $2B. LATAM: Belo $14M (Tether) + Habi $40M (BBVA Spark Colombia). VIX 18.81.",
     "trend": "up",
-    "trend_delta": 0.1,
+    "trend_delta": 0.2,
     "color_band": "green"
   },
   "volume": {
-    "rounds_us_last_7d": 175,
-    "rounds_latam_last_7d": 28,
-    "capital_us_last_7d_musd": 11200,
-    "capital_latam_last_7d_musd": 641,
+    "rounds_us_last_7d": 182,
+    "rounds_latam_last_7d": 31,
+    "capital_us_last_7d_musd": 13400,
+    "capital_latam_last_7d_musd": 695,
     "delta_rounds_vs_prev": "up",
     "delta_capital_vs_prev": "up",
     "leading_sectors_us": [
-      "AI foundation / AGI research",
-      "Coding agents & developer tools",
-      "Biotech / GLP-1, oncology M&A",
-      "Defense & dual-use / sovereign AI"
+      "AI foundation / AGI (Anthropic $900B+)",
+      "Coding agents & developer tools (Cursor $2B)",
+      "Defense & space tech (True Anomaly $650M)",
+      "Biotech GLP-1 / obesity pharma (Eli Lilly outlook alzado)"
     ],
     "leading_sectors_latam": [
-      "Fintech B2B / stablecoins",
-      "Climatech / AI ambiental",
-      "AI fraud prevention / digital trust",
-      "Employee benefits fintech"
+      "Fintech stablecoins / neobanking (Belo $14M, Tether)",
+      "Proptech AI / vivienda (Habi $40M Colombia)",
+      "Prediction markets / DeFi (Xo Market $6M)",
+      "AI soberano Brasil (50 modelos LLM locales emergentes)"
     ],
     "stage_mix": {
-      "seed": 38,
-      "series_a": 24,
-      "series_b": 15,
-      "growth": 23
+      "seed": 35,
+      "series_a": 22,
+      "series_b": 16,
+      "growth": 27
     }
   },
   "narrative": {
     "dominant_themes": [
-      "KPMG certifica Q1 2026 en $330.9B — dato institucional supera estimados previos ($300B): el mercado global de venture está en su trimestre más fuerte desde 2021, con 8,464 deals y concentración en AI megadeals de EE.UU.",
-      "LATAM Q1 2026: $1.3B, mejor trimestre desde 2022 — LAVCA valida el momentum regional; México lidera; el ecosistema latinoamericano no está atrapado en el ruido macro sino creciendo en estructura",
-      "Carrera AGI en fase de consolidación: Ineffable Intelligence $1.1B seed mantiene atención institucional, NeoCognition $40M y Mosaic $18M confirman que el layer de agentes especializados sigue recibiendo capital",
-      "Biotech pública: Kailera $625M IPO (obesidad) es el mayor listing de biotech en EE.UU. desde 2021 — la ventana de salidas al mercado para biotech se está abriendo activamente",
-      "AI soberano consolida como categoría: China-Meta-Manus bloqueado + Cohere/Aleph Alpha €500M + UK Sovereign AI Fund en Ineffable — tres señales en 24h que confirman la \"soberanización\" del AI como política de Estado",
-      "VIX bajando a 18 — moderación de volatilidad sostenida: el mercado público muestra estabilidad relativa, lo que apoya la ventana de fundraising y la disposición de LPs a comprometer capital en fondos nuevos"
+      "Anthropic evalúa ronda de ~$50B a $850–900B+ de valoración, potencialmente desbancaría a OpenAI ($852B) como startup privada más valiosa — board meeting en mayo, IPO posible en octubre 2026",
+      "Big Tech Q1 2026: AWS +28% a $37.6B, Meta $26.8B ganancia, $725B en capex AI combinado para todo el año — la tesis de inversión en AI infrastructure tiene validación de ingresos, no solo narrativa",
+      "True Anomaly $650M Serie D (Eclipse + Riot): defensa espacial pasa a fase de escala; SoftBank Roze AI planea IPO en H2 2026 — dual-use AI tiene su propio ciclo de capital institucional",
+      "Cursor $2B (Thrive, a16z, NVIDIA) cierra el capítulo de coding agents como activos estratégicos; SpaceX $60B oferta de adquisición sigue activa — la categoría tiene liquidez real",
+      "LATAM: Belo $14M (Tether, Argentina) consolida tesis de stablecoins rentables; Habi $40M (BBVA Spark, Colombia) confirma proptech con demanda institucional — dos deals de alto contenido estratégico",
+      "VIX en 18.81 (+5.5%) — ligero aumento de volatilidad pero todavía en zona de confort para fundraising; crudo a $107.98 genera presión de costos en AI infrastructure"
     ],
-    "one_liner": "La mañana del 28 confirma lo que la tarde del 27 insinuó: KPMG eleva el Q1 a $330.9B y LATAM muestra su mejor arranque en cuatro años — el verde del termómetro tiene respaldo institucional, no solo titulares."
+    "one_liner": "El 30 de abril convierte la narrativa en matemática: Anthropic a $900B+ y Big Tech gastando $725B en AI capex no son titulares — son el nuevo piso desde el que opera todo el ecosistema."
   },
   "blog_posts": [
+    {
+      "id": "2026-04-30-morning",
+      "date": "2026-04-30",
+      "time": "12:00",
+      "run": "morning",
+      "title": "30 de abril — Mañana: Anthropic apunta a $900B y Big Tech valida $725B en capex AI",
+      "subtitle": "Corrida de la mañana (30 abr 2026) — Anthropic evalúa triplicar su valoración en 60 días; AWS +28% y Meta $26.8B en ganancias confirman la tesis; True Anomaly $650M en defensa espacial; LATAM: Belo $14M + Habi $40M.",
+      "sentiment_at_post": 7.6,
+      "sources_used": [
+        "Reuters / Bloomberg / TechCrunch",
+        "WSJ / Built In Colorado",
+        "TNW / ESGToday",
+        "TrendingTopics.eu",
+        "Reuters (Eli Lilly)",
+        "Parsers VC Substack",
+        "Ecosistema Startup",
+        "ebankingnews.com",
+        "startuplinks.world",
+        "mlq.ai / DefenseScoop",
+        "aiautomationglobal.com",
+        "bloomberglinea.com.br"
+      ],
+      "word_count": 2100,
+      "citations": [
+        {
+          "n": 1,
+          "outlet": "Reuters / Bloomberg",
+          "title": "Anthropic weighs new funding round at valuation exceeding $900 billion",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-weighs-new-funding-round-valuation-exceeding-900-billion-bloomberg-2026-04-29/",
+          "date": "2026-04-29"
+        },
+        {
+          "n": 2,
+          "outlet": "TrendingTopics.eu",
+          "title": "Big Tech Earnings: Strong Revenues Meet Massive AI Capex",
+          "url": "https://www.trendingtopics.eu/big-tech-earnings-strong-revenues-meet-massive-ai-capex/",
+          "date": "2026-04-30"
+        },
+        {
+          "n": 3,
+          "outlet": "Built In Colorado",
+          "title": "Space Defense Company True Anomaly Raises $650M Series D",
+          "url": "https://www.builtincolorado.com/articles/true-anomaly-raises-650m-series-d-20260429",
+          "date": "2026-04-29"
+        },
+        {
+          "n": 4,
+          "outlet": "Parsers VC Substack",
+          "title": "Weekly TOP Startup / VC news of April 30, 2026 — Cursor raises $2B",
+          "url": "https://parsers.substack.com/p/weekly-top-startup-vc-news-of-april-8c5",
+          "date": "2026-04-30"
+        },
+        {
+          "n": 5,
+          "outlet": "WSJ",
+          "title": "SoftBank Plots IPO for New Robotics Venture (Roze AI)",
+          "url": "https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297",
+          "date": "2026-04-29"
+        },
+        {
+          "n": 6,
+          "outlet": "Reuters",
+          "title": "Eli Lilly raises annual profit forecast as GLP-1 drugs fuel growth",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-raises-annual-profit-forecast-sustained-weight-loss-drug-demand-2026-04-30/",
+          "date": "2026-04-30"
+        },
+        {
+          "n": 7,
+          "outlet": "Ecosistema Startup",
+          "title": "Tether invierte $14M en Belo: lecciones para founders",
+          "url": "https://ecosistemastartup.com/tether-invierte-14m-en-belo-lecciones-para-founders/",
+          "date": "2026-04-30"
+        },
+        {
+          "n": 8,
+          "outlet": "startuplinks.world",
+          "title": "BBVA Spark otorga US$40 millones a Habi para impulsar vivienda en Colombia",
+          "url": "https://www.startuplinks.world/noticias/bbva-spark-otorga-us-40-millones-a-habi-para-impulsar-vivienda-en-colombia",
+          "date": "2026-04-29"
+        },
+        {
+          "n": 9,
+          "outlet": "TNW",
+          "title": "Europe's Earlybird VC closes €360M Fund VIII — oversubscribed, perpetual ownership model",
+          "url": "https://thenextweb.com/news/earlybird-360m-fund-viii-perpetual-ownership",
+          "date": "2026-04-30"
+        },
+        {
+          "n": 10,
+          "outlet": "ESGToday",
+          "title": "Kompas VC Raises €160 Million to Back Industrial Productivity and Decarbonization Startups",
+          "url": "https://www.esgtoday.com/kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups/",
+          "date": "2026-04-30"
+        },
+        {
+          "n": 11,
+          "outlet": "aiautomationglobal.com",
+          "title": "Avoca Hits $1B: AI Voice Agents Conquer the Trades",
+          "url": "https://aiautomationglobal.com/blog/avoca-ai-voice-agent-trades-unicorn-2026",
+          "date": "2026-04-29"
+        },
+        {
+          "n": 12,
+          "outlet": "mlq.ai",
+          "title": "SkyfireAI Raises $11 Million Seed Funding for AI-Enabled Multi-Drone Systems",
+          "url": "https://mlq.ai/news/skyfireai-raises-11-million-seed-funding-for-ai-enabled-multi-drone-systems/",
+          "date": "2026-04-28"
+        }
+      ],
+      "content_html": "<div class=\"sources-block\">\n  <strong>Fuentes consultadas en esta corrida (findings.json local &mdash; Firecrawl, 30 de abril 2026, corrida ma&ntilde;ana):</strong>\n  <ul class=\"sources-list\">\n    <li><a href=\"https://www.reuters.com/business/retail-consumer/anthropic-weighs-new-funding-round-valuation-exceeding-900-billion-bloomberg-2026-04-29/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Reuters / Bloomberg &mdash; &ldquo;Anthropic weighs new funding round at valuation exceeding $900 billion&rdquo;</a> &mdash; 2026-04-29</li>\n    <li><a href=\"https://www.trendingtopics.eu/big-tech-earnings-strong-revenues-meet-massive-ai-capex/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">TrendingTopics.eu &mdash; &ldquo;Big Tech Earnings: Strong Revenues Meet Massive AI Capex&rdquo;</a> &mdash; 2026-04-30</li>\n    <li><a href=\"https://www.builtincolorado.com/articles/true-anomaly-raises-650m-series-d-20260429\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Built In Colorado &mdash; &ldquo;True Anomaly Raises $650M Series D&rdquo;</a> &mdash; 2026-04-29</li>\n    <li><a href=\"https://parsers.substack.com/p/weekly-top-startup-vc-news-of-april-8c5\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Parsers VC &mdash; &ldquo;Weekly TOP Startup / VC news of April 30, 2026&rdquo;</a> &mdash; 2026-04-30</li>\n    <li><a href=\"https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">WSJ &mdash; &ldquo;SoftBank Plots IPO for New Robotics Venture (Roze AI)&rdquo;</a> &mdash; 2026-04-29</li>\n    <li><a href=\"https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-raises-annual-profit-forecast-sustained-weight-loss-drug-demand-2026-04-30/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Reuters &mdash; &ldquo;Eli Lilly raises annual profit forecast as GLP-1 drugs fuel growth&rdquo;</a> &mdash; 2026-04-30</li>\n    <li><a href=\"https://ecosistemastartup.com/tether-invierte-14m-en-belo-lecciones-para-founders/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">Ecosistema Startup &mdash; &ldquo;Tether invierte $14M en Belo: lecciones para founders&rdquo;</a> &mdash; 2026-04-30</li>\n    <li><a href=\"https://www.startuplinks.world/noticias/bbva-spark-otorga-us-40-millones-a-habi-para-impulsar-vivienda-en-colombia\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">startuplinks.world &mdash; &ldquo;BBVA Spark otorga US$40 millones a Habi para impulsar vivienda en Colombia&rdquo;</a> &mdash; 2026-04-29</li>\n    <li><a href=\"https://thenextweb.com/news/earlybird-360m-fund-viii-perpetual-ownership\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">TNW &mdash; &ldquo;Earlybird VC closes &euro;360M Fund VIII&rdquo;</a> &mdash; 2026-04-30</li>\n    <li><a href=\"https://www.esgtoday.com/kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups/\" target=\"_blank\" rel=\"noopener\" data-external=\"1\">ESGToday &mdash; &ldquo;Kompas VC Raises &euro;160 Million&rdquo;</a> &mdash; 2026-04-30</li>\n  </ul>\n</div>\n\n<h3>Pulso macro</h3>\n<p>La corrida del 30 de abril tiene un protagonista que opaca todo lo dem&aacute;s: <strong>Anthropic est&aacute; evaluando una ronda de capital que la valorar&iacute;a en m&aacute;s de $900 mil millones</strong><sup class=\"cite\" data-n=\"1\">1</sup>. Para poner eso en perspectiva: en febrero 2026 cerr&oacute; una ronda de $30.000 millones a $380 mil millones de valoraci&oacute;n. En menos de 60 d&iacute;as, los inversores le presentaron ofertas preventivas de ~$50.000 millones a un rango de $850&ndash;900 mil millones. Si cierra a ese nivel, Anthropic desbancar&iacute;a a OpenAI &mdash;valorada en $852 mil millones en marzo&mdash; como la startup privada m&aacute;s valiosa del mundo. La decisi&oacute;n llega a un board meeting en mayo, y el Bloomberg report menciona un IPO potencial para octubre de 2026.</p>\n\n<p>El telón macro al cierre del 30 de abril: DJIA 48.861 (-0,57%), S&amp;P 500 7.135 (-0,04%), Nasdaq 24.673 (+0,04%). <strong>VIX 18,81 (+5,5% en el d&iacute;a)</strong> &mdash; un tick al alza respecto al 18,02 del 28 de abril, pero todav&iacute;a en zona de confort. El oro a $4.567 (+0,14%), crudo a $107,98 (+1,03%, presi&oacute;n de costos de energ&iacute;a para AI infrastructure), Bitcoin en $75.801. El balance: mercados p&uacute;blicos mixtos con ligera correci&oacute;n, pero la narrativa de capital privado AI es completamente independiente del ruido de corto plazo.</p>\n\n<p>El contexto de resultados Big Tech el 30 de abril cambia el frame macroecon&oacute;mico para el venture. Amazon report&oacute; AWS creciendo al 28% hasta $37.600 millones &mdash;su tasa m&aacute;s r&aacute;pida desde 2022&mdash; con ingresos totales de $181.500 millones<sup class=\"cite\" data-n=\"2\">2</sup>. Meta report&oacute; $26.800 millones en ganancia trimestral. Juntas, las cuatro grandes (Amazon, Meta, Microsoft, Alphabet) planean gastar hasta $725 mil millones en 2026, principalmente en centros de datos e infraestructura AI. Ese n&uacute;mero no es narrativa: es capex real que va a crear dem&aacute;nda de servicios cloud, silicon, talento y startups de tooling durante los pr&oacute;ximos 18 meses.</p>\n\n<h3>Estados Unidos</h3>\n<p>El deal del d&iacute;a, y posiblemente de la semana, es la historia de Anthropic. La compa&ntilde;&iacute;a &mdash;que recibi&oacute; ofertas preventivas de m&uacute;ltiples inversores&mdash; est&aacute; resistiendo propuestas a $800 mil millones para negociar arriba del techo de $900 mil millones<sup class=\"cite\" data-n=\"1\">1</sup>. El timing es crucial: un cierre al nivel reportado llegar&iacute;a justo antes de un posible IPO en octubre 2026, lo que significa que el precio de salida a bolsa partir&iacute;a de una base de valoraci&oacute;n sin precedentes para una startup de AI. Para el ecosistema de venture, este dato ancla las expectativas de valoraci&oacute;n de toda la capa foundation model.</p>\n\n<p>El segundo tema dominante es la consolidaci&oacute;n definitiva de los coding agents como activos corporativos. Parsers VC confirm&oacute; que <strong>Cursor cerr&oacute; una ronda de $2.000 millones</strong> liderada por Thrive Capital, a16z y NVIDIA<sup class=\"cite\" data-n=\"4\">4</sup>, mientras que la oferta de SpaceX de $60.000 millones o participaci&oacute;n minoritaria de $10.000 millones sigue activa. Si el 27 de abril dejaba claro que los coding agents ya valían $25B+ (Cognition), el 30 de abril cierra el cap&iacute;tulo con Cursor a $2B de ronda: la categor&iacute;a tiene liquidez real, no solo promesas.</p>\n\n<p>En defensa y espacio, <strong>True Anomaly cerr&oacute; una Serie D de $650 millones</strong> liderada por Eclipse y Riot Ventures<sup class=\"cite\" data-n=\"3\">3</sup>. La compa&ntilde;&iacute;a de Centennial, Colorado, construye spacecraft aut&oacute;nomos y software de superioridad espacial para el ej&eacute;rcito de EE.UU. y sus aliados. Con $50 millones adicionales en deuda de Stifel Bank, el round total supera los $700 millones, consolidando a True Anomaly como uno de los deals de defensa tech m&aacute;s grandes del a&ntilde;o. En la misma semana, SoftBank anunci&oacute; la creaci&oacute;n de Roze AI, un nuevo venture enfocado en AI + rob&oacute;tica con planes de IPO en el segundo semestre de 2026<sup class=\"cite\" data-n=\"5\">5</sup>. Masayoshi Son ve la convergencia AI-rob&oacute;tica como la pr&oacute;xima frontera, y las similitudes con el timing de Arm en 2023 son imposibles de ignorar.</p>\n\n<p>En biotech, <strong>Eli Lilly elev&oacute; su forecast anual de ganancias</strong> tras un Q1 que super&oacute; expectativas, impulsado por la demanda sostenida de Zepbound y Mounjaro<sup class=\"cite\" data-n=\"6\">6</sup>. El lanzamiento de Foundayo (GLP-1 oral) acumul&oacute; 3.707 prescripciones en su primera semana completa &mdash;por debajo del estimado de ~8.000, pero el mercado considera la rampa normal para un producto oral nuevo. Viking Therapeutics inform&oacute; $603 millones en caja con sus fases 3 de VK2735 totalmente enroladas. Zealand Pharma y Roche avanzaron petrelintide a fase 3. El consenso del mercado es claro: la carrera de GLP-1 oral es real y va a generar M&amp;A adicional en los pr&oacute;ximos 12 meses.</p>\n\n<p>En el frente de LP capital, dos fondos europeos cerraron el 30 de abril: <strong>Earlybird VC cerr&oacute; su Fund VIII en &euro;360 millones</strong>, el mayor de su historia, con enfoque en AI infrastructure, foundation models y deeptech<sup class=\"cite\" data-n=\"9\">9</sup>. <strong>Kompas VC cerr&oacute; su Fund II en &euro;160 millones</strong> para startups de industrial AI y decarbonizaci&oacute;n<sup class=\"cite\" data-n=\"10\">10</sup>. Ambos fondos sobresuscritos son se&ntilde;al de que los LPs europeos siguen comprometiendo capital a paso sostenido, incluso mientras el mercado p&uacute;blico fluctúa.</p>\n\n<p>En vertical AI, <strong>Avoca AI alcanz&oacute; valoraci&oacute;n de $1.000 millones</strong> con m&aacute;s de $125 millones recaudados<sup class=\"cite\" data-n=\"11\">11</sup>. El voice agent para el sector de servicios del hogar (HVAC, plomeros, roofers) est&aacute; en camino de facilitar $1.000 millones en trabajos para sus clientes en 2026. Es el primer unicornio vertical de voice AI para la econom&iacute;a de servicios, y valida que la tesis de &ldquo;AI capturando revenue perdido por llamadas sin contestar&rdquo; tiene m&eacute;tricas de negocio reales. Rogo cerr&oacute; una Serie D de $160 millones liderada por Kleiner Perkins (total $300M+) para su plataforma ag&eacute;ntica de finanzas en Wall Street.</p>\n\n<h3>Latinoam&eacute;rica</h3>\n<p>El deal LATAM de la jornada con mayor impacto estrat&eacute;gico es <strong>Belo (Argentina): $14 millones en Serie A liderada por Tether</strong>, el principal emisor de USDT del mundo<sup class=\"cite\" data-n=\"7\">7</sup>. Belo tiene 3 millones de usuarios, opera en Argentina y Brasil, y &mdash;dato at&iacute;pico en el ecosistema regional&mdash; alcanz&oacute; rentabilidad desde sus primeros tres a&ntilde;os de operaci&oacute;n. La inversi&oacute;n de Tether no es capital pasivo: es un partnership estrat&eacute;gico que posiciona a Belo como la billetera de distribuci&oacute;n LATAM para USDT en mercados de alta inflaci&oacute;n y alta demanda de d&oacute;lares digitales. La compa&ntilde;&iacute;a planea expandirse a Colombia, Chile, M&eacute;xico y Per&uacute;, lo que convierte este deal en el punto de partida de una estrategia regional que puede mover el agujar de adopci&oacute;n de stablecoins en pa&iacute;ses que el Term&oacute;metro lleva meses monitoreando.</p>\n\n<p>En Colombia, <strong>Habi asegur&oacute; una nueva l&iacute;nea de cr&eacute;dito de $40 millones con BBVA Spark</strong><sup class=\"cite\" data-n=\"8\">8</sup>, elevando su total de cr&eacute;dito recientemente asegurado a $100 millones (suma $60M de M&eacute;xico anunciados previamente). Habi es la proptech que usa AI para valuar inmuebles, analizar riesgo y automatizar el proceso de compra-venta de vivienda. En un mercado donde m&aacute;s del 90% del ahorro familiar colombiano est&aacute; en vivienda, la eficiencia del mercado inmobiliario tiene impacto directo sobre el patrimonio de millones de personas. El deal confirma que Colombia tiene deals activos &mdash;el silencio de las semanas anteriores era lag estructural de anuncio, no inactividad.</p>\n\n<p>Xo Market cerr&oacute; $6 millones en seed (20VC, Picus Capital, Coinbase Ventures) para su plataforma de mercados de predicci&oacute;n onchain que compite con Polymarket. Con m&aacute;s de $150 millones en volumen y 30.000 usuarios, la startup representa la convergencia de crypto infrastructure + prediction markets que varios fondos de la regi&oacute;n est&aacute;n monitoreando como proxy de sofisticaci&oacute;n financiera emergente en LATAM.</p>\n\n<p>En Brasil, el art&iacute;culo de NeoFeed sobre los &ldquo;50 ChatGPTs con acento brasilero&rdquo; (NeoSpace, Clarice.ai, NeuralMind, infinity6) documenta la emergencia de un ecosistema de LLMs locales en portugu&eacute;s. La tesis del AI soberano que el Term&oacute;metro identific&oacute; hace dos semanas como tendencia en Europa y China tiene su correlato en LATAM: los pa&iacute;ses con volumen de datos en idiomas distintos al ingl&eacute;s tienen casos de uso nativos donde los modelos globales no optimizan. NG.Cash (8 millones de usuarios Gen Z en Brasil) lanz&oacute; su producto de cr&eacute;dito consignado &mdash;la evoluci&oacute;n de billetera digital a plataforma financiera completa que valida la tesis de fintech lifecycle.</p>\n\n<h3>Deep dive: la carrera de valoraciones AI y lo que significa para el ecosistema</h3>\n<p>Anthropic a $380B en febrero. OpenAI a $852B en marzo. Anthropic potencialmente a $900B+ en mayo. En tres meses, las dos compa&ntilde;&iacute;as l&iacute;deres de AI foundation model triplicaron sus valoraciones privadas. Esto no es solo un n&uacute;mero: es un re-pricing estructural de toda la capa de AI. Cada startup que construye sobre Claude o GPT-4 tiene ahora un &ldquo;floor de valoraci&oacute;n de proveedor&rdquo; que sube con cada ronda de Anthropic u OpenAI &mdash;porque el costo de replicar lo que esas empresas hacen aumenta con cada d&oacute;lar que meten en R&amp;D y compute.</p>\n\n<p>Para los fundadores en la capa de aplicaci&oacute;n AI, el re-pricing de las fundaciones tiene dos efectos contrapuestos. Por un lado, <strong>sube el piso de valuaci&oacute;n de sus propios deals</strong>: los fondos que comparan con Anthropic tienen que recalibrar qu&eacute; m&uacute;ltiplo es &ldquo;razonable&rdquo; para un startup con $5M ARR construido sobre Claude. Por otro lado, <strong>aumenta la dependencia estratégica</strong>: a medida que Anthropic se capitaliza mejor, su poder de negociaci&oacute;n con los builders en su ecosistema crece. Si el IPO llega en octubre, los founders que construyeron sobre la API deben evaluar cu&aacute;nto de su roadmap puede verse afectado por cambios de pricing post-listing.</p>\n\n<p>El dato de $725 mil millones en AI capex de Big Tech para 2026<sup class=\"cite\" data-n=\"2\">2</sup> complementa el cuadro. Amazon CEO Andy Jassy habl&oacute; de &ldquo;una oportunidad &uacute;nica en la vida&rdquo; y mantuvo su forecast de ~$200 mil millones de inversi&oacute;n. Ese capital va a fluir hacia: (1) data centers y chips, (2) startups de tooling y observabilidad para AI, (3) talent&ndash;adquisiciones de equipos y compa&ntilde;&iacute;as por parte de los hyperscalers. Para el ecosystem de VC, el punto 3 es el m&aacute;s relevante: la ventana de exits via acqui-hire o compra estrat&eacute;gica por Amazon, Meta, Microsoft y Alphabet se acaba de ampliar.</p>\n\n<h3>Narrativa</h3>\n<p>Cuatro se&ntilde;ales dominan el an&aacute;lisis del 30 de abril por la ma&ntilde;ana:</p>\n\n<p><strong>Anthropic a $900B+ redefine el piso de la categor&iacute;a.</strong> Una valoraci&oacute;n privada de ese tama&ntilde;o para una compa&ntilde;&iacute;a de AI foundation confirma que el mercado de LLMs de frontera se est&aacute; concentrando en dos o tres jugadores que capturan la mayor&iacute;a del capital institucional. Las rondas de los players menores se convierten en serie A del ecosistema mayor<sup class=\"cite\" data-n=\"1\">1</sup>.</p>\n\n<p><strong>Big Tech Q1 valida la tesis de AI capex sostenido.</strong> AWS +28%, Meta $26.8B ganancia, $725B combinado: estos resultados eliminan la duda sobre si el gasto en AI infraestructura era temporal<sup class=\"cite\" data-n=\"2\">2</sup>. Para los LPs que a&uacute;n ten&iacute;an el ciclo AI como &ldquo;hype pendiente de validaci&oacute;n de ingresos&rdquo;, Q1 2026 cierra esa discusi&oacute;n.</p>\n\n<p><strong>Defensa tech entra en fase de escala real.</strong> True Anomaly $650M<sup class=\"cite\" data-n=\"3\">3</sup> + SoftBank Roze AI IPO<sup class=\"cite\" data-n=\"5\">5</sup> + SBIR/STTR revampado son tres se&ntilde;ales en 48 horas que confirman: el dual-use AI ya no es una sub-tesis del VC generalista sino una vertical con su propio ciclo de capital institucional y gobierno.</p>\n\n<p><strong>LATAM con dos deals confirmados de alto contenido estrat&eacute;gico.</strong> Belo $14M (stablecoins + rentabilidad) + Habi $40M (proptech Colombia) son deals distintos en tesis pero convergentes en mensaje: el ecosistema latinoamericano tiene compa&ntilde;&iacute;as con modelos de negocio s&oacute;lidos que atraen capital internacional incluso en mercados macro complejos<sup class=\"cite\" data-n=\"7\">7</sup><sup class=\"cite\" data-n=\"8\">8</sup>.</p>\n\n<p><em>One-liner: &ldquo;El 30 de abril convierte la narrativa en matem&aacute;tica: Anthropic a $900B+ y Big Tech gastando $725B en AI capex no son titulares &mdash;son el nuevo piso desde el que opera todo el ecosistema.&rdquo;</em></p>\n\n<h3>Top deals del per&iacute;odo (confirmados en esta corrida)</h3>\n<ul>\n<li><strong>Anthropic</strong> &mdash; evaluando ronda de ~$50.000M a valoraci&oacute;n $850&ndash;900B+ &mdash; USA, AI foundation / LLM<sup class=\"cite\" data-n=\"1\">1</sup></li>\n<li><strong>Cursor</strong> &mdash; $2.000M ronda (Thrive, a16z, NVIDIA) &mdash; USA, AI coding agents<sup class=\"cite\" data-n=\"4\">4</sup></li>\n<li><strong>True Anomaly</strong> &mdash; $650M Serie D (Eclipse + Riot Ventures) &mdash; USA, defensa espacial / AI<sup class=\"cite\" data-n=\"3\">3</sup></li>\n<li><strong>Rogo</strong> &mdash; $160M Serie D (Kleiner Perkins) &mdash; USA, AI agents finanzas / Wall Street</li>\n<li><strong>Avoca AI</strong> &mdash; $125M+ valuaci&oacute;n $1.000M &mdash; USA, voice AI / vertical servicios del hogar<sup class=\"cite\" data-n=\"11\">11</sup></li>\n<li><strong>Earlybird Fund VIII</strong> &mdash; &euro;360M cerrado &mdash; Europa, early-stage AI infrastructure<sup class=\"cite\" data-n=\"9\">9</sup></li>\n<li><strong>Kompas VC Fund II</strong> &mdash; &euro;160M cerrado &mdash; Europa/DK, industrial AI + decarbonizaci&oacute;n<sup class=\"cite\" data-n=\"10\">10</sup></li>\n<li><strong>Habi (Colombia)</strong> &mdash; $40M l&iacute;nea BBVA Spark (total $100M reciente) &mdash; Colombia, proptech AI<sup class=\"cite\" data-n=\"8\">8</sup></li>\n<li><strong>Belo (Argentina)</strong> &mdash; $14M Serie A liderada por Tether &mdash; Argentina/LATAM, fintech stablecoins<sup class=\"cite\" data-n=\"7\">7</sup></li>\n<li><strong>SkyfireAI</strong> &mdash; $11M seed (Mucker Capital) &mdash; USA, AI multi-drone systems<sup class=\"cite\" data-n=\"12\">12</sup></li>\n</ul>\n\n<h3>Lectura del term&oacute;metro</h3>\n<p>Sube a 7.6 desde 7.4 (delta +0.2, tendencia alcista sostenida). Los factores alcistas: Anthropic a potencial $900B+ re-ancla las expectativas de valoraci&oacute;n de toda la categor&iacute;a<sup class=\"cite\" data-n=\"1\">1</sup>; Big Tech Q1 valida el gasto de $725B en AI capex<sup class=\"cite\" data-n=\"2\">2</sup>; True Anomaly $650M confirma la maduraci&oacute;n del vertical de defensa tech<sup class=\"cite\" data-n=\"3\">3</sup>; Cursor $2B cierra el cap&iacute;tulo de coding agents como activos estrat&eacute;gicos<sup class=\"cite\" data-n=\"4\">4</sup>; y LATAM suma dos deals con contenido estrat&eacute;gico (Belo + Habi)<sup class=\"cite\" data-n=\"7\">7</sup><sup class=\"cite\" data-n=\"8\">8</sup>. Los factores de moderaci&oacute;n: VIX subi&oacute; a 18,81 (+5,5%), cr&uacute;do a $107,98 (presi&oacute;n de costos), OpenAI no alcanz&oacute; sus objetivos de ingresos y usuarios (se&ntilde;al de que la monetizaci&oacute;n de AI tiene fricci&oacute;n real), y la correcci&oacute;n de Amazon post-earnings (-3%) indica que el mercado p&uacute;blico premia el crecimiento pero penaliza el capex alto sin visibilidad de margen. Para alcanzar 7.8&ndash;8.0 necesitamos: cierre oficial de la ronda Anthropic, IPO exitoso de Roze AI o Cerebras, deal LATAM de $50M+ en Colombia/Brasil, o recorte de tasas de la Fed.</p>\n\n<h3>Qu&eacute; mirar en la pr&oacute;xima corrida</h3>\n<p>Cuatro se&ntilde;ales para el resto del 30 de abril y la ma&ntilde;ana del 1 de mayo: (1) Decisiones formales del board de Anthropic sobre la ronda &mdash;si se confirma el cierre a $900B+ antes de fin de mes, el mercado de AI private reacciona inmediatamente. (2) Resultados finales de Microsoft y Alphabet Q1 &mdash;si mantienen el patr&oacute;n de AWS/Meta, el capex AI de $725B se convierte en n&uacute;mero oficial. (3) Cualquier deal nuevo en Colombia o Per&uacute; &mdash;Habi confirm&oacute; que Colombia tiene pipeline activo, ahora se espera el siguiente anuncio. (4) Actualizaci&oacute;n del timeline de Roze AI / SoftBank IPO &mdash;el primer IPO de un venture de AI+rob&oacute;tica en 2026 ser&iacute;a una se&ntilde;al definitiva de apertura de ventana p&uacute;blica para la categor&iacute;a.</p>"
+    },
     {
       "id": "2026-04-28-morning",
       "date": "2026-04-28",
